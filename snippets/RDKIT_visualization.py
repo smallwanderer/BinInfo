@@ -173,11 +173,11 @@ if __name__ == "__main__":
     multi_vis = MoleculeVisualization(smiles)
 
 
-    # single_vis.visualize_single_molecule()
-    # multi_vis.visualize_multiple_molecules()
+    single_vis.visualize_single_molecule()
+    multi_vis.visualize_multiple_molecules()
 
     current_dir = os.path.dirname(os.path.abspath(__file__))
     save_dir = os.path.join(current_dir, "images")
 
     # multi_vis.draw_multiple_molecules(save_dir, svg=True)
-    single_vis.draw_3d_single_molecules(save_dir)
+    # single_vis.draw_3d_single_molecules(save_dir)
