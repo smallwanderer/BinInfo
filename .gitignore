@@ -21,6 +21,7 @@ data/
 snippets/images/
 ml_snippets/aqueous_solubility_eda/
 *.png
+!documents/images/*.png
 *.svg
 *.html
 
