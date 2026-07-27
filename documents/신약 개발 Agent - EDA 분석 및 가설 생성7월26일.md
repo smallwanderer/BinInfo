@@ -310,3 +310,14 @@ OAI 데이터 구조
 | image03 | 원본 이미지 데이터 (DTI, MRI, fMRI) — AMP SCZ/NDA/OAI 공용 구조 | 69,116 (여러 연구 통합치) |
 
 검사의 무릎 X-ray 관절강 폭(JSW) 측정 / 무릎 MRI 반정량 점수 — 골수병변(BML) 이런 점수같은 것들도 EDA하기 좋아보이기는 해서
+
+
+## 6. 추가 논의 사항
+분자구조 관련: 얘도 저기 특정 질병처럼 하나의 질병 영역을 타게팅하고 가져온 후에 이미 5번에서 정한거랑 이어 붙이는 방식이 더 좋을 것 같음
+https://www.ebi.ac.uk/chembl/explore/targets/ 
+
+만약에 SMILES 분자구조 데이터를 쓸거면 어떤 방식으로 쓸건지는 이야기를 해봐야 할 거 같음
+
+<img width="1340" height="663" alt="image" src="https://github.com/user-attachments/assets/5a0e23eb-e6dc-4fb4-aadf-ab322831a134" />
+
+데이터는 찾을때 target -> 그러니까 DYRK1A 뭐 이런식으로 특정 담백질 계열을 검색하면, 이 타겟을 없애거나 증진시키는 실험이 보고된 화합물들의 분자구조랑 뭐 실험 단계들의 형태가 나옴
