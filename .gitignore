@@ -23,6 +23,7 @@ ml_snippets/aqueous_solubility_eda/
 *.png
 !documents/images/*.png
 *.svg
+!documents/images/*.svg
 *.html
 
 # IDEs and Editors
