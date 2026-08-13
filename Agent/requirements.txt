@@ -1,0 +1,18 @@
+# Agent Core (에이전트 공통 모듈)
+openai>=1.0.0
+pydantic>=2.9
+httpx>=0.27
+PyYAML>=6.0
+mcp>=1.2,<2.0
+python-dotenv>=1.0
+
+# LangGraph 상위 에이전트 (KCI MCP tool + PubMed tool 오케스트레이션)
+langgraph>=0.2
+langchain-openai>=0.2
+langchain-mcp-adapters>=0.1
+
+# 2. paperModule (한의학 문헌 탐색 툴 전용)
+paper-qa>=5.0
+xmltodict>=0.13
+diskcache>=5.6
+streamlit>=1.38

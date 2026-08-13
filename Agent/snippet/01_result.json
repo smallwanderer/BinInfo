@@ -1,0 +1,54 @@
+{
+  "query": "뇌혈관질환후유증에 대한 침치료의 효과를 IF 5이상 저널 기준으로 찾아줘",
+  "entry_agent": {
+    "goal": "Find studies on the effectiveness of acupuncture treatment for post-stroke complications.",
+    "constraints": [
+      "Find studies published in journals with an impact factor of 5 or higher."
+    ],
+    "fillable_constraints": [],
+    "unfillable_constraints": [
+      "Find studies published in journals with an impact factor of 5 or higher."
+    ]
+  },
+  "query_builder": {
+    "sub_queries": [
+      {
+        "topic": "Acupuncture post-stroke complications",
+        "kci": "Acupuncture post stroke",
+        "pubmed": "Acupuncture AND post-stroke AND complications"
+      },
+      {
+        "topic": "Acupuncture stroke recovery",
+        "kci": "Acupuncture stroke",
+        "pubmed": "Acupuncture AND stroke AND recovery"
+      },
+      {
+        "topic": "Acupuncture efficacy complications",
+        "kci": "Acupuncture efficacy",
+        "pubmed": "Acupuncture AND efficacy AND complications"
+      },
+      {
+        "topic": "Acupuncture rehabilitation stroke",
+        "kci": "Acupuncture rehabilitation",
+        "pubmed": "Acupuncture AND rehabilitation AND stroke"
+      }
+    ]
+  },
+  "usage": {
+    "entry_agent": {
+      "input_tokens": 418,
+      "output_tokens": 36,
+      "total_tokens": 454
+    },
+    "query_builder": {
+      "input_tokens": 1195,
+      "output_tokens": 108,
+      "total_tokens": 1303
+    },
+    "total": {
+      "input_tokens": 1613,
+      "output_tokens": 144,
+      "total_tokens": 1757
+    }
+  }
+}

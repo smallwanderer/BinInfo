@@ -1,0 +1,22 @@
+sources:
+  kci:
+    enabled: true
+    base_url: https://www.kci.go.kr/kciportal/po/openapi/openApiSearch.kci
+    api_key: ${KCI_API_KEY}
+  oasis:
+    # No confirmed official Open API yet (spec section 5.3). Adapter is a
+    # structure-only no-op until base_url/api_key are set AND implemented.
+    enabled: false
+    base_url: ${OASIS_API_BASE_URL}
+    api_key: ${OASIS_API_KEY}
+  pubmed:
+    enabled: true
+    api_key: ${PUBMED_API_KEY}
+
+cache:
+  dir: .cache
+  ttl_seconds:
+    metadata: 2592000   # 30d, "장기"
+    abstract: 2592000
+    citation_count: 604800   # 7d
+    search_result: 86400     # 24h

@@ -1,0 +1,1926 @@
+{
+  "topics": [
+    "Acupuncture post-stroke complications",
+    "Acupuncture stroke recovery",
+    "Acupuncture efficacy complications",
+    "Acupuncture rehabilitation stroke"
+  ],
+  "candidate_count": 33,
+  "screened": [
+    {
+      "uid": "kci:ART001981653",
+      "title": "뇌졸중후 경직에 대한 침치료 임상진료지침",
+      "authors": [
+        "김제신",
+        "이의주",
+        "신병철",
+        "이명수",
+        "임성민",
+        "남동우",
+        "문상관",
+        "신승원"
+      ],
+      "authors_short": "김제신 외",
+      "journal": "대한한의학회지",
+      "year": 2015,
+      "doi": null,
+      "kci_id": "ART001981653",
+      "pmid": null,
+      "score": 0.7589,
+      "citation_count": 4,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 1
+      },
+      "abstract": "Objectives: This study is aimed to develop a Clinical Practice Guideline (CPG) on acupuncture treatment for the patients with post-stroke spasticity.\nMethods: Experts committee, consisting of stroke or methodology specialists, searched Medline, EMBASE, Cochrane Library, China National Knowledge Infrastructure, and 19 Korean medicine journals. The search terms were selected to screen the randomized controlled trials (RCTs) or systematic reviews for the effectiveness of acupuncture on post-stroke spasticity, compared with placebo or conventional group. Levels of evidence and grades of recommendations were appraised based on Recommendations for Development of Clinical Practice Guideline in Korean Medicine.\nResults & Conclusions: One systematic review and 7 RCT were included to build the CPG. There was a strong evidence to support the effectiveness of electroacupuncture treatment for post-stroke spasticity. However, it did not show any sufficient evidence to treat the patients with post-stroke spasticity with the sole acupuncture. The moderate evidence was presented that over 3 times of the electroacupuncture treatments with 1-100 Hz frequency should be performed every week on the acupoints, such as LI11, LI10, TE5, LI4, ST36, GB34, ST40, or LR3, for 20-30 minutes. It was also suggested that the procedure should begin at the acute stage just after the vital signs of the patients are stabilized. Finally, there was a moderate evidence to support safety of acupuncture treatment for post-stroke spasticity.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001981653",
+      "relevant_to": [
+        "Acupuncture post-stroke complications",
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "kci:ART002099728",
+      "title": "뇌졸중후 요저류에 대한 침치료 임상진료지침",
+      "authors": [
+        "이지원",
+        "이의주",
+        "신병철",
+        "이명수",
+        "임성민",
+        "조충식",
+        "문상관"
+      ],
+      "authors_short": "이지원 외",
+      "journal": "대한한의학회지",
+      "year": 2016,
+      "doi": null,
+      "kci_id": "ART002099728",
+      "pmid": null,
+      "score": 0.7588,
+      "citation_count": 6,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 2
+      },
+      "abstract": "Objectives: Objectives : This study is aimed to develop a Clinical Practice Guideline (CPG) on acupuncture treatment for the patients with Post-stroke Urinary Retention; PSUR.\nMethods: Experts committee, consisting of stroke or methodology specialists, searched Medline, EMBASE, Cochrane Library, China National Knowledge Infrastructure, and 19 Korean medicine journals. The search terms were selected to screen the randomized controlled trials (RCTs) or systematic reviews for the effectiveness of acupuncture on PSUR compared with placebo or conventional group. Levels of evidence and grades of recommendations were appraised based on Recommendations for Development of Clinical Practice Guideline in Korean Medicine.\nResults & Conclusions: 4 RCT were included to build the CPG. There was a strong evidence to support the effectiveness of acupuncture treatment for PSUR. The moderate evidence was presented that over 3 times a week of the acupuncture should be performed over 4 weeks on the acupoints, such as SP6, CV3, CV6, CV4, SP9, BL28, BL23, BL22, KI3 or BL67, for 15-30 minutes. 20-140Hz frequency and 10-20 minutes of treatment is suggested if electro-acupuncture treatment is performed with. It was also suggested that the procedure should begin at the acute stage just after the vital signs of the patients are stabilized. Finally, there was a moderate evidence to support safety of acupuncture treatment for PSUR.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002099728",
+      "relevant_to": [
+        "Acupuncture post-stroke complications",
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "pubmed:37143014",
+      "title": "Acupuncture for post-stroke depression: a systematic review and network meta-analysis.",
+      "authors": [
+        "Lam Ching Wai",
+        "Li Hui Juan",
+        "Guo Jianwen",
+        "Yao Liang",
+        "Chau Janita",
+        "Lo Suzanne",
+        "Yuen Chun Sum",
+        "Ng Bacon Fung Leung",
+        "Chau-Leung Yu Edwin",
+        "Bian Zhaoxiang",
+        "Lau Alexander Y",
+        "Zhong Linda Ld"
+      ],
+      "authors_short": "Lam Ching Wai 외",
+      "journal": "BMC psychiatry",
+      "year": 2023,
+      "doi": "10.1186/s12888-023-04749-1",
+      "kci_id": null,
+      "pmid": "37143014",
+      "score": 0.7448,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 1
+      },
+      "abstract": "Patients with post-stroke depression (PSD) usually experience anxiety, hopelessness, and insomnia, which have a negative impact on their daily activities and post-stroke rehabilitation. Acupuncture (AC), as a minimally invasive technique, has become a popular choice for improving depression symptoms. However, it is still unclear which therapy is associated with the best outcomes for PSD. In this review, we aimed to explore the impact of AC in alleviating symptoms of PSD and to evaluate the difference in effectiveness between AC combined with pharmacotherapies and various non-pharmacotherapies. Six databases and three clinical trials registration platforms were searched from inception to March 2023. Randomized clinical trial comparing needle-based AC with pharmacotherapy, and other non-pharmacotherapy or invalid group were included. Two independent reviewers identified eligible studies, and collected data using a pre-made form. A Bayesian network meta-analysis was conducted to assess and compare different techniques using RStudio 3.6.0 with the package 'GEMTC' V.0.8.1. The primary outcome was the efficacy for PSD assessed by scales measuring depressive symptoms. The secondary outcomes were effectiveness for neurological function and the quality of life. The ranking probabilities for all treatment interventions was performed using the Surface Under the Cumulative Ranking curve (SUCRA). The risk of bias was assessed by using the Revised Cochrane Risk of Bias tool 2. Sixty-two studies, involving 5308 participants published from 2003 to 2022, were included. The results showed that compared with western medicine (WM) (defined as pharmacotherapy for PSD), AC alone or with repetitive transcranial magnetic stimulation (RTMS), Traditional Chinese medicine (TCM) alone or with WM, were superior for alleviating depression symptoms. Compared to Usual Care, AC alone or plus other therapies could significantly decrease scores on the Hamilton Depression Rating scale. According to result of SUCRA, AC plus RTMS had the highest probability of improving depressive symptoms with a probability of 49.43%. The results of this study indicate that AC alone or combined with other therapies appears to be effective in improving depression symptoms of stroke survivors. Moreover, in comparison to WM, AC alone or plus RTMS, TCM, TCM with WM, or WM, were more effective in improving depression symptoms of PSD. Also, AC with RTMS seems to be the most effective with the highest probability. This study was registered in the International Prospective Register of Systematic Reviews (PROSPERO) database in November 2020 and updated in July 2021. The registration number is CRD42020218752.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/37143014/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "pubmed:39069104",
+      "title": "Acupuncture, an effective treatment for post-stroke neurologic dysfunction.",
+      "authors": [
+        "Zhang You",
+        "Tang Yi-Wen",
+        "Peng Yu-Ting",
+        "Yan Zi",
+        "Zhou Jin",
+        "Yue Zeng-Hui"
+      ],
+      "authors_short": "Zhang You 외",
+      "journal": "Brain research bulletin",
+      "year": 2024,
+      "doi": "10.1016/j.brainresbull.2024.111035",
+      "kci_id": null,
+      "pmid": "39069104",
+      "score": 0.7368,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "Stroke episodes represent a significant subset of cerebrovascular diseases globally, often resulting in diverse neurological impairments such as hemiparesis, spasticity, dysphagia, sensory dysfunction, cognitive impairment, depression, aphasia, and other sequelae. These dysfunctions markedly diminish patients' quality of life and impose substantial burdens on their families and society. Consequently, the restoration of neurological function post-stroke remains a primary objective of clinical treatment. Acupuncture, a traditional Chinese medicine technique, is endorsed by the World Health Organization (WHO) for stroke treatment due to its distinct advantages in managing cerebrovascular diseases, including ischemic stroke. Numerous clinical studies have substantiated the efficacy of acupuncture in ameliorating neurological dysfunctions following stroke. This review systematically examines the improvements in post-stroke neurological dysfunction attributable to acupuncture treatment and elucidates potential mechanisms of action proposed in recent years. Additionally, this article aims to present novel therapeutic concepts and strategies for the clinical management of post-stroke neurological dysfunction.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/39069104/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART001396834",
+      "title": "중풍 후 중추성 통증환자에 대한 봉독약침의 임상효과 －단일맹검 무작위배정 환자 대조군 비교연구－",
+      "authors": [
+        "곽자영",
+        "조승연",
+        "신애숙",
+        "이인환",
+        "김나희",
+        "김혜미",
+        "나병조",
+        "박성욱",
+        "정우상",
+        "문상관",
+        "박정미",
+        "고창남",
+        "조기호",
+        "김영석",
+        "배형섭"
+      ],
+      "authors_short": "곽자영 외",
+      "journal": "Journal of Acupuncture Research",
+      "year": 2009,
+      "doi": null,
+      "kci_id": "ART001396834",
+      "pmid": null,
+      "score": 0.7188,
+      "citation_count": 11,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 4
+      },
+      "abstract": "Objectives : This study was designed to evaluate objectively the efficacy of bee-venom acupuncture on Central post-stroke patients.\nMethods : After screening, 25 patients recruited with eligible criteria. Among them 1 dropped out in treatment group, 4 in control group. We applied bee-venom acupuncture 6 points of body(LI15, GB21, LI11, GB31, ST36, GB39) 2 times a week for 3 weeks for treatment group, and normal saline for control group in the same way. After 3 weeks treatment and 2 weeks follow up we measured VAS, categorial rating scale as a pain assessment also MBI, Modified Rankin Scale as a stroke recovery.\nResults : 1. Treatment group showed significant difference in VAS, categorial rating scale after treatment and 2 weeks follow up, compared with baseline. The control group showed significant difference between baseline and after treatment But the 2 weeks follow up, there is no significant difference compared with baseline. Also there’s no significant difference in categorial rating scale. \n2. MBI showed significant difference in treatment group between baseline and after treatment, but the control group did not have any difference. There’s no significant difference in Modified Rankin Scale for treatment group and control group. \n3. There’s no significant difference between control group and treatment group. This is because of the small sample size in the study, Thus it seems to reflect individual difference strongly. \nConclusions : There are positive effect on CPSP patients in pain and stroke recovery treating with bee-venom acupuncture than control group.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001396834",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "pubmed:34746431",
+      "title": "European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia.",
+      "authors": [
+        "Dziewas Rainer",
+        "Michou Emilia",
+        "Trapl-Grundschober Michaela",
+        "Lal Avtar",
+        "Arsava Ethem Murat",
+        "Bath Philip M",
+        "Clavé Pere",
+        "Glahn Jörg",
+        "Hamdy Shaheen",
+        "Pownall Sue",
+        "Schindler Antonio",
+        "Walshe Margaret",
+        "Wirth Rainer",
+        "Wright David",
+        "Verin Eric"
+      ],
+      "authors_short": "Dziewas Rainer 외",
+      "journal": "European stroke journal",
+      "year": 2021,
+      "doi": "10.1177/23969873211039721",
+      "kci_id": null,
+      "pmid": "34746431",
+      "score": 0.6124,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND post-stroke AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 3
+      },
+      "abstract": "Post-stroke dysphagia (PSD) is present in more than 50% of acute stroke patients, increases the risk of complications, in particular aspiration pneumonia, malnutrition and dehydration, and is linked to poor outcome and mortality. The aim of this guideline is to assist all members of the multidisciplinary team in their management of patients with PSD. These guidelines were developed based on the European Stroke Organisation (ESO) standard operating procedure and followed the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach. An interdisciplinary working group identified 20 relevant questions, performed systematic reviews and meta-analyses of the literature, assessed the quality of the available evidence and wrote evidence-based recommendations. Expert opinion was provided if not enough evidence was available to provide recommendations based on the GRADE approach. We found moderate quality of evidence to recommend dysphagia screening in all stroke patients to prevent post-stroke pneumonia and to early mortality and low quality of evidence to suggest dysphagia assessment in stroke patients having been identified at being at risk of PSD. We found low to moderate quality of evidence for a variety of treatment options to improve swallowing physiology and swallowing safety. These options include dietary interventions, behavioural swallowing treatment including acupuncture, nutritional interventions, oral health care, different pharmacological agents and different types of neurostimulation treatment. Some of the studied interventions also had an impact on other clinical endpoints such as feedings status or pneumonia. Overall, further randomized trials are needed to improve the quality of evidence for the treatment of PSD.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/34746431/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:35249330",
+      "title": "Effects of physical therapy-based rehabilitation on recovery of upper limb motor function after stroke in adults: a systematic review and meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Huang Jing",
+        "Ji Jia-Ri",
+        "Liang Chao",
+        "Zhang Yan-Zhen",
+        "Sun Heng-Cong",
+        "Yan Yuan-Hong",
+        "Xing Xiao-Bei"
+      ],
+      "authors_short": "Huang Jing 외",
+      "journal": "Annals of palliative medicine",
+      "year": 2022,
+      "doi": "10.21037/apm-21-3710",
+      "kci_id": null,
+      "pmid": "35249330",
+      "score": 0.4756,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND post-stroke AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 4
+      },
+      "abstract": "Limb hemiplegia is one of the common sequelae of stroke. Physical therapy-based rehabilitation training can rapidly improve limb functioning and muscle strength. This study investigated the effect of physical therapy on the recovery of upper limb motor function by employing a literature search and meta-analysis. We searched Embase, The Cochrane Central Register of Controlled Trials library, Wiley online library, PubMed, Ovid, and Clinicaltrials.org for randomized controlled trial (RCT) studies and performed an electronic search with the keyword combinations 'physical therapy/rehabilitation' & 'stroke/post-stroke' & 'upper extremity/upper limb'. After screening the literature for inclusion criteria and assessing the risk of bias, Revman 5.4 software was used for the analysis and to obtain forest and funnel plots. A total of 15 RCTs with 1,081 patients were included in the quantitative analysis for this study. The meta-analysis results showed that compared with conventional therapy, physical therapy improved the upper limb Fugl-Meyer Assessment for Upper Extremity (FMA) scores in convalescent stroke patients (MD =7.27, 95% CI: 4.23-10.32, Z=4.68, P<0.00001), and increased the Functional Independence Measure (FIM) scores (MD =18.82, 95% CI: 6.34-31.30, Z=2.96, P=0.003), the Action Research Arm Test (ARAT) scores (MD =8.84, 95% CI: 6.53-11.15, Z=7.50, P<0.00001), and the Box and Block Test (BBT) scores (MD =6.11, 95% CI: 1.18-11.04, Z=2.43, P=0.02) of patients during the rehabilitation period. The use of physical therapy-based rehabilitation training in the recovery period for stroke patients with hemiplegia can improve upper limb movement ability, increase muscle strength, reduce limb pain, and improve the quality of life.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/35249330/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:38942201",
+      "title": "Effectiveness and safety of Governor vessel acupuncture therapy for post-stroke cognitive impairment: A meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Han Ji-Ze",
+        "Yang Yang",
+        "Wang Yi-Fan",
+        "Feng Jia-Hao",
+        "Song Cheng-Ning",
+        "Wu Wei-Jie",
+        "Lin Hai-Bo"
+      ],
+      "authors_short": "Han Ji-Ze 외",
+      "journal": "Ageing research reviews",
+      "year": 2024,
+      "doi": "10.1016/j.arr.2024.102355",
+      "kci_id": null,
+      "pmid": "38942201",
+      "score": 0.3585,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND post-stroke AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 5
+      },
+      "abstract": "The purpose of this study was to evaluate the effectiveness of Governor vessel acupuncture (GV Ac) in treating post-stroke cognitive impairment (PSCI). There was a total of seven databases examined. Four English databases (Cochrane Library, PubMed, Embase, and Medline) and three Chinese databases (Chinese National Knowledge Infrastructure (CNKI), Chinese Science and Technology Periodical Databases (VIP), and Wan Fang Database) contain all randomized controlled trials (RCTs) comparing Governor vessel acupuncture to other treatments or none acupuncture for PSCI. The exact dates for the search period are from January 1, 2000, to January 1, 2023.Two researchers independently reviewed the literature, gathered RCT data, and performed statistical analysis. All data were analyzed using Review Manager software (Rev Man) 5.3. This meta-analysis includes a total of 39 trials with 2044 patients. There were 1022 participants in each of the test and control groups. Following 12-120 days of acupuncture treatment, a meta-analysis revealed that the treatment groups (GV Ac combined with conventional treatment groups) significantly increased their scores on the Curative ratio (OR = 3.00, 95 %CI = 2.37-3.79, P = 0.98, I² = 0 %), Montreal Cognitive Assessment (MoCA)(MD = 1.82, 95 %CI = 1.60-2.03, P = 0.11, I² = 25 %), Mini-Mental State Examination (MMSE)(MD = 2.18, 95 %CI = 1.64-2.72, P<0.005, I² = 92 %), and Activity of Daily Living (ADL)(MD = 5.99, 95 %CI = 5.33-6.64, P = 0.19, I² = 26 %). The results suggested that acupuncture on points of the Governor vessel enhanced cognitive function in stroke survivors.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/38942201/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART003119178",
+      "title": "Case Report: Improvement of 3 Stroke Patients Through Integrative Medicine Based on Scalp Acupuncture",
+      "authors": [
+        "송시영",
+        "장에스더",
+        "노준용",
+        "조수민",
+        "김은서",
+        "김근정",
+        "김경옥",
+        "설재욱",
+        "나창수"
+      ],
+      "authors_short": "송시영 외",
+      "journal": "Korean Journal of Acupuncture",
+      "year": 2024,
+      "doi": null,
+      "kci_id": "ART003119178",
+      "pmid": null,
+      "score": 0.8027,
+      "citation_count": 1,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 1
+      },
+      "abstract": "A stroke is a condition where an ischemic injury occurs in the brain tissue due to blockage or rupture of cerebral blood vessels.\nThe damage to the brain nerve cells caused by a stroke is irreversible. Significant recovery is generally observed within the first six months after the onset, but the natural recovery rate decreases after six months. Therefore, intensive rehabilitation therapy is necessary within the first six months of the onset. This case report presents three cases of patients in the sequelae phase of stroke, where treatments based on integrative medicine system between traditional Korean medicine and Western medicine were applied. The treatments included scalp acupuncture from traditional Korean medicine and rehabilitation exercises and electrical therapy from Western medicine. In this case report, we evaluated the Manual Muscle Test (MMT), Modified Barthel Index (MBI), and the patients' subjective symptom interviews before and after the implementation of the integrative treatment. As a result, significant improvements in MMT and MBI were observed in acute stroke cases, whereas the improvement was minimal in cases with chronic progression. However, in all cases, the patients expressed high satisfaction with the treatment during the interviews.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003119178",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART003310943",
+      "title": "Differential Improvement in Memory and Executive Functions: Personalized Exercise versus Acupuncture for Mild Cognitive Impairment in Stroke-prone Individuals",
+      "authors": [
+        "Yaoyao Xing",
+        "Haoran Hu",
+        "Qingping Ma",
+        "Jianjun Yang",
+        "Xin Wang"
+      ],
+      "authors_short": "Yaoyao Xing 외",
+      "journal": "Clinical Psychopharmacology and Neuroscience",
+      "year": 2026,
+      "doi": "10.9758/cpn.25.1321",
+      "kci_id": "ART003310943",
+      "pmid": null,
+      "score": 0.7699,
+      "citation_count": 0,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 2
+      },
+      "abstract": "Objective: This study compared the effects of personalized exercise versus acupuncture on multidimensional cognitive function in individuals at high risk for stroke with mild cognitive impairment (MCI).\nMethods: A randomized controlled trial enrolled 200 stroke-risk adults aged 50−80 years. Ninety participants diagnosed with MCI (MMSE, HIS, CDR criteria) were randomly assigned to exercise (n = 30), acupuncture (n = 30), or control (n = 30) groups. Interventions lasted 6 months. Cognitive outcomes (MMSE, Raven’s Progressive Matrices, Digit Symbol Substitution Test, Animal Fluency, Rey-Osterrieth test, Stroop test) were assessed before and after intervention. Multivariate regression identified risk factors for MCI. ANOVA was used for group comparisons.\nResults: Hypertension (aOR = 1.5) and diabetes (aOR = 1.3) were significant risk factors for MCI. After intervention, the exercise group showed the largest MMSE improvement ( = 5.0), compared with acupuncture ( = 3.0) and control ( = 1.0) (p ＜ 0.001). Exercise produced greater gains in non-verbal reasoning (31.8% vs. 26.1% in acupuncture, p ＜ 0.01). Acupuncture more effectively enhanced processing speed and attention (DSST:  = 26 vs.  = 20 in exercise, p = 0.03) and executive function (Stroop interference time:  = 16 vs.  = 15 seconds in exercise, p = 0.04). Both interventions significantly improved verbal fluency (p ＜ 0.001), with larger benefits in those with baseline MMSE ≤ 20.\nConclusion: Hypertension and diabetes are key risk factors for MCI in stroke-prone individuals. Exercise yields greater improvement in global cognition and memory, whereas acupuncture is more effective for enhancing attention and exec utive function. Both modalities benefit verbal fluency, particularly in lower-functioning participants.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003310943",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART003146726",
+      "title": "Acupuncture for acute ischemic stroke: A systematic review and meta-analysis of randomized controlled trials",
+      "authors": [
+        "Shanshan Huang",
+        "Yuting Wang",
+        "Yifan Wu",
+        "Puchen Huang",
+        "Yu Dong",
+        "Qiao Zhang",
+        "Mengjiao Zhao",
+        "Jingchun Zeng",
+        "Liming Lu",
+        "Xinxia Liu"
+      ],
+      "authors_short": "Shanshan Huang 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2024,
+      "doi": "10.1016/j.imr.2024.101092",
+      "kci_id": "ART003146726",
+      "pmid": null,
+      "score": 0.7525,
+      "citation_count": 7,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 8
+      },
+      "abstract": "Background: Stroke is the main cause of death and disability worldwide. There are divergent views regarding the effects of acupuncture in managing acute ischemic stroke (AIS). The purpose of this study was to assess the safety and effectiveness of acupuncture for acute ischemic stroke.\n\n\nMethods: We conducted a comprehensive search across the PubMed, Cochrane Library, Embase, Web of Science, China National Knowledge Infrastructure (CNKI), China Science and Technology Journal Database (VIP), Wanfang, and SinoMed databases from their inception until October 3, 2023. Two reviewers screened eligible randomized controlled trials (RCTs) according to criteria and extracted data using a pre-established form. Cochrane tool was used for risk of bias assessment, and Revman 5.3 was used for subsequent meta-analysis. The GRADE tool will be used to assess the quality of evidence.\n\n\nResults: Thirty-one RCTs were included, involving 3604 patients. Meta-analysis showed that compared with conventional treatments (CTs), acupuncture combined with CTs could improve in National Institutes of Health Stroke Scale (NIHSS) and Efficiency (MD:1.70, 95 %CI [-2.27, -1.14], P < 0.00001;RR: 1.21, 95 %CI [1.12, 1.31], P < 0.00001,);On the Chinese Stroke Scale (CSS) and effectiveness based on CSS, acupuncture showed positive effects (MD:4.33, 95 %CI [-5.67, -2.98], P < 0.00001; RR: 1.26, 95 %CI [1.13, 1.41], P < 0.0001). Furthermore, ADL, Fugl-Meyer Assessment Scale (FMA), prognosis analyses also showed the effectiveness of acupuncture. (SMD: 0.98, 95 % CI [0.64, 1.31], P < 0.00001; MD: 16.46, 95 %CI [12.56, 20.35], P < 0.00001; RR: 0.38, 95 %CI [0.16, 0.89], P = 0.03). However, the certainty of evidence was low.\n\n\nConclusion: According to current evidence, Acupuncture may be effective and safe for AIS. The future still needs high-quality evidence to support this conclusion.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003146726",
+      "relevant_to": [
+        "Acupuncture stroke recovery",
+        "Acupuncture efficacy complications"
+      ]
+    },
+    {
+      "uid": "kci:ART003088961",
+      "title": "Intraoral Acupuncture for Sialorrhea in Stroke Patients: a Study Protocol for a Randomized Controlled Trial",
+      "authors": [
+        "Wang Jin-Jin",
+        "Shao Meng-Meng",
+        "Zhou Xue-Zhen",
+        "Lin Zu-Chen",
+        "Li Hai-Yan",
+        "Yuan Zheng-Zhong",
+        "Ma Qin-Qin",
+        "Li Fang",
+        "Fu Wen-Bin"
+      ],
+      "authors_short": "Wang Jin-Jin 외",
+      "journal": "Innovations in Acupuncture and Medicine",
+      "year": 2024,
+      "doi": "10.51507/j.jams.2024.17.3.100",
+      "kci_id": "ART003088961",
+      "pmid": null,
+      "score": 0.7157,
+      "citation_count": 0,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 3
+      },
+      "abstract": "Importance: Post-stroke sialorrhea (PSS) refers to excessive saliva flowing out the lip border after a stroke. PSS negatively affects patient self-image and social communication and may lead to depression. Limited evidence supports the link between excessive salivation and PSS. No large-scale, strictly controlled randomized controlled trials have shown the effectiveness of acupuncture in treating PSS patients.\nObjective: We aim to compare the effects of intraoral and sham acupuncture in PSS patients and explore relationships among salivation and drooling severity and frequency and swallowing function in stroke patients.\nDesign: Clinical study protocol, SPIRIT compliant.\nSetting: Prospective, single-center, randomized, and sham-controlled trial.\nPopulation: We will recruit 106 PSS patients to receive 4-week intraoral or sham acupuncture. Additionally, 53 stroke patients without PSS will undergo a conventional 4-week treatment program to compare salivation between PSS and non-PSS patients.\nExposures: Intraoral or sham acupuncture.\nMain Outcomes and Measures: The main evaluation index will be the 3-minute saliva weight (3MSW), comparing changes in 3MSW from baseline to weeks 4 and 8.\nSecondary assessment indices will include the “Drooling Severity and Frequency Scale” and “Functional Oral Intake Scale.” Results: The results from this study will be published in peer-reviewed journals.\nConclusion: Comparing effects of intraoral and sham acupuncture in PSS patients, this study may contribute important evidence for future PSS treatment and provide valuable insights into whether salivation issues in stroke patients are attributed to heightened salivary secretion or dysphagia.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003088961",
+      "relevant_to": [
+        "Acupuncture post-stroke complications"
+      ]
+    },
+    {
+      "uid": "pubmed:30376602",
+      "title": "Swallowing therapy for dysphagia in acute and subacute stroke.",
+      "authors": [
+        "Bath Philip M",
+        "Lee Han Sean",
+        "Everton Lisa F"
+      ],
+      "authors_short": "Bath Philip M 외",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": 2018,
+      "doi": "10.1002/14651858.CD000323.pub3",
+      "kci_id": null,
+      "pmid": "30376602",
+      "score": 0.7396,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND stroke AND recovery",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "Dysphagia (swallowing problems), which is common after stroke, is associated with increased risk of death or dependency, occurrence of pneumonia, poor quality of life, and longer hospital stay. Treatments provided to improve dysphagia are aimed at accelerating recovery of swallowing function and reducing these risks. This is an update of the review first published in 1999 and updated in 2012. To assess the effects of swallowing therapy on death or dependency among stroke survivors with dysphagia within six months of stroke onset. We searched the Cochrane Stroke Group Trials Register (26 June 2018), the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 6) in the Cochrane Library (searched 26 June 2018), MEDLINE (26 June 2018), Embase (26 June 2018), the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (26 June 2018), Web of Science Core Collection (26 June 2018), SpeechBITE (28 June 2016), ClinicalTrials.Gov (26 June 2018), and the World Health Organization International Clinical Trials Registry Platform (26 June 2018). We also searched Google Scholar (7 June 2018) and the reference lists of relevant trials and review articles. We sought to include randomised controlled trials (RCTs) of interventions for people with dysphagia and recent stroke (within six months). Two review authors independently applied the inclusion criteria, extracted data, assessed risk of bias, used the GRADE approach to assess the quality of evidence, and resolved disagreements through discussion with the third review author (PB). We used random-effects models to calculate odds ratios (ORs), mean differences (MDs), and standardised mean differences (SMDs), and provided 95% confidence intervals (CIs) for each.The primary outcome was functional outcome, defined as death or dependency (or death or disability), at the end of the trial. Secondary outcomes were case fatality at the end of the trial, length of inpatient stay, proportion of participants with dysphagia at the end of the trial, swallowing ability, penetration aspiration score, or pneumonia, pharyngeal transit time, institutionalisation, and nutrition. We added 27 new studies (1777 participants) to this update to include a total of 41 trials (2660 participants).We assessed the efficacy of swallowing therapy overall and in subgroups by type of intervention: acupuncture (11 studies), behavioural interventions (nine studies), drug therapy (three studies), neuromuscular electrical stimulation (NMES; six studies), pharyngeal electrical stimulation (PES; four studies), physical stimulation (three studies), transcranial direct current stimulation (tDCS; two studies), and transcranial magnetic stimulation (TMS; nine studies).Swallowing therapy had no effect on the primary outcome (death or dependency/disability at the end of the trial) based on data from one trial (two data sets) (OR 1.05, 95% CI 0.63 to 1.75; 306 participants; 2 studies; I² = 0%; P = 0.86; moderate-quality evidence). Swallowing therapy had no effect on case fatality at the end of the trial (OR 1.00, 95% CI 0.66 to 1.52; 766 participants; 14 studies; I² = 6%; P = 0.99; moderate-quality evidence). Swallowing therapy probably reduced length of inpatient stay (MD -2.9, 95% CI -5.65 to -0.15; 577 participants; 8 studies; I² = 11%; P = 0.04; moderate-quality evidence). Researchers found no evidence of a subgroup effect based on testing for subgroup differences (P = 0.54). Swallowing therapy may have reduced the proportion of participants with dysphagia at the end of the trial (OR 0.42, 95% CI 0.32 to 0.55; 1487 participants; 23 studies; I² = 0%; P = 0.00001; low-quality evidence). Trial results show no evidence of a subgroup effect based on testing for subgroup differences (P = 0.91). Swallowing therapy may improve swallowing ability (SMD -0.66, 95% CI -1.01 to -0.32; 1173 participants; 26 studies; I² = 86%; P = 0.0002; very low-quality evidence). We found no evidence of a subgroup effect based on testing for subgroup differences (P = 0.09). We noted moderate to substantial heterogeneity between trials for these interventions. Swallowing therapy did not reduce the penetration aspiration score (i.e. it did not reduce radiological aspiration) (SMD -0.37, 95% CI -0.74 to -0.00; 303 participants; 11 studies; I² = 46%; P = 0.05; low-quality evidence). Swallowing therapy may reduce the incidence of chest infection or pneumonia (OR 0.36, 95% CI 0.16 to 0.78; 618 participants; 9 studies; I² = 59%; P = 0.009; very low-quality evidence). Moderate- and low-quality evidence suggests that swallowing therapy did not have a significant effect on the outcomes of death or dependency/disability, case fatality at the end of the trial, or penetration aspiration score. However, swallowing therapy may have reduced length of hospital stay, dysphagia, and chest infections, and may have improved swallowing ability. However, these results are based on evidence of variable quality, involving a variety of interventions. Further high-quality trials are needed to test whether specific interventions are effective.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/30376602/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:40819643",
+      "title": "Yindan Xinnaotong Soft Capsule improves post-ischemic stroke recovery by regulating CREB/BDNF-mediated synaptic plasticity and CREB/VEGFA-mediated angiogenesis.",
+      "authors": [
+        "Cheng Cuicui",
+        "Liu Huijuan",
+        "Guan Guoqiang",
+        "Fei Qinglin",
+        "Zhao Mengtao",
+        "Wang Huanyi",
+        "Wang Ruirui",
+        "Hu Limin",
+        "Li Xing",
+        "Wu Honghua",
+        "Fan Guanwei",
+        "Jiang Miaomiao",
+        "Zhu Yan",
+        "Lyu Ming"
+      ],
+      "authors_short": "Cheng Cuicui 외",
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "year": 2025,
+      "doi": "10.1016/j.phymed.2025.157155",
+      "kci_id": null,
+      "pmid": "40819643",
+      "score": 0.517,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND stroke AND recovery",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 4
+      },
+      "abstract": "Ischemic stroke is a leading cause of disability and cognitive impairment. Yindan Xinnaotong Soft Capsule (YD), a traditional Chinese patent medicine, is clinically utilized for cardio-cerebrovascular diseases, yet its potential roles in post-stroke recovery remains unclear. To elucidate the protective effects and underlying mechanisms of YD on ischemic post-stroke recovery. Middle cerebral artery occlusion/reperfusion (MCAO/R) and oxygen-glucose deprivation/reperfusion (OGD/R) models were utilized to investigate the effects of YD on post-stroke recovery. Cerebral atrophy (TTC staining), histopathology (H&E, Nissl, and Golgi staining), synaptic ultrastructure (transmission electron microscopy, TEM), and behavioral tests were assessed. RNA-seq and network pharmacology analysis were utilized to reveal the underlying mechanisms, and verified in brain tissues, 2D monolayer cell, and 3D neurovascular unit (NVU) spheroids. Molecular docking was performed to screen the potential active ingredients and verified by immunofluorescence and cellular thermal shift assay. YD significantly alleviated post-stroke brain atrophy volume, neurological deficit score, cognitive/motor deficit, and pathological structure and hippocampal synaptic ultrastructure damage. A total of 535 differentially expressed genes analysis revealed that CREB signaling with the key targets of CREB, BDNF, and VEGFA was the central mechanism. The synaptic plasticity marker of synaptophysin and angiogenesis marker of CD31 were upregulated in brain tissues and 3D NVU spheroids mediated by CREB/BDNF and CREB/VEGFA pathway, respectively. Co-treatment with the CREB inhibitor 666-15 attenuated YD's effects on CREB phosphorylation. Salvianolic acid B (from Salvia miltiorrhiza Bunge) and Kaempferol-3-O-rutinoside (from Ginkgo biloba leaf) were identified and validated as primary active ingredients with high CREB affinity. Our study demonstrated that YD promoted post-ischemic stroke recovery by promoting CREB/BDNF-mediated synaptic plasticity and CREB/VEGFA-mediated angiogenesis, highlighting its therapeutic potential for treating long-term cerebral ischemia injury.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/40819643/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:38336368",
+      "title": "Bilateral effect of acupuncture on cerebrum and cerebellum in ischaemic stroke patients with hemiparesis: a randomised clinical and neuroimaging trial.",
+      "authors": [
+        "Chen Tianzhu",
+        "Chen Tianyan",
+        "Zhang Yong",
+        "Wu Kang",
+        "Zou Yihuai"
+      ],
+      "authors_short": "Chen Tianzhu 외",
+      "journal": "Stroke and vascular neurology",
+      "year": 2024,
+      "doi": "10.1136/svn-2023-002785",
+      "kci_id": null,
+      "pmid": "38336368",
+      "score": 0.3585,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND stroke AND recovery",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 5
+      },
+      "abstract": "Acupuncture involving the limb region may be effective for stroke rehabilitation clinically, but the visualised and explanatory evidence is limited. Our objectives were to assess the specific effects of acupuncture for ischaemic stroke (IS) patients with hemiparesis and investigate its therapy-driven modification in functional connectivity. IS patients were randomly assigned (2:1) to receive 10 sessions of hand-foot 12 needles acupuncture (HA, n=30) or non-acupoint (NA) acupuncture (n=16), enrolling gender-matched and age-matched healthy controls (HCs, n=34). The clinical outcomes were the improved Fugl-Meyer Assessment scores including upper and lower extremity (ΔFM, ΔFM-UE, ΔFM-LE). The neuroimaging outcome was voxel-mirrored homotopic connectivity (VMHC). Static and dynamic functional connectivity (sFC, DFC) analyses were used to study the neuroplasticity reorganisation. 46 ISs (mean(SD) age, 59.37 (11.36) years) and 34 HCs (mean(SD) age, 52.88 (9.69) years) were included in the per-protocol analysis of clinical and neuroimaging. In clinical, ΔFM scores were 5.00 in HA group and 2.50 in NA group, with a dual correlation between ΔFM and ΔVMHC (angular: r=0.696, p=0.000; cerebellum: r=-0.716, p=0.000) fitting the linear regression model (R=0.828). In neuroimaging, ISs demonstrated decreased VMHC in bilateral postcentral gyrus and cerebellum (Gaussian random field, GRF corrected, voxel p<0.001, cluster p<0.05), which fitted the logistic regression model (AUC=0.8413, accuracy=0.7500). Following acupuncture, VMHC in bilateral superior frontal gyrus orbital part was increased with cerebro-cerebellar changes, involving higher sFC between ipsilesional superior frontal gyrus orbital part and the contralesional orbitofrontal cortex as well as cerebellum (GRF corrected, voxel p<0.001, cluster p<0.05). The coefficient of variation of VMHC was decreased in bilateral posterior cingulate gyrus (PPC) locally (GRF corrected, voxel p<0.001, cluster p<0.05), with integration states transforming into segregation states overall (p<0.05). There was no acupuncture-related adverse event. The randomised clinical and neuroimaging trial demonstrated acupuncture could promote the motor recovery and modified cerebro-cerebellar VMHC via bilateral static and dynamic reorganisations for IS patients with hemiparesis.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/38336368/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART003246232",
+      "title": "Cochrane reviews of acupuncture are dated, do not account for the specific effects of sham controls and likely underestimate the efficacy of acupuncture therapy",
+      "authors": [
+        "Arya Nielsen",
+        "L. Susan Wieland"
+      ],
+      "authors_short": "Arya Nielsen 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2025,
+      "doi": "10.1016/j.imr.2025.101195",
+      "kci_id": "ART003246232",
+      "pmid": null,
+      "score": 0.8553,
+      "citation_count": 5,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture efficacy",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 3
+      },
+      "abstract": "Background Because Cochrane reviews represent a quality standard for systematic reviews, we sought to clarify to what extent Cochrane reviews of acupuncture characterize the potential and problematic specific effects of sham acupuncture.\nMethods We imported records of Cochrane acupuncture reviews into Covidence and independently selected reviews with at least one included study comparing manual acupuncture to sham acupuncture. Dual data extraction for eligible reviews included review author expertise, evaluation of intervention adequacy, use of STRICTA guidelines, characterization of sham methods, and whether specific effects of sham were discussed relative to needle penetration, point selection or use of a sham device.\nResults Of the 56 reviews with acupuncture in the title, 16 were ineligible. Of the 40 included reviews, 28 were published in or before 2018. Most reviews had an author with acupuncture trial expertise; however, assessment of intervention adequacy was rarely conducted, STRICTA guidelines were rarely utilized, and reporting of sham acupuncture methods was commonly either missing or lacking rigor. While 20/40 reviews acknowledged the controversy regarding sham as an active and therefore inadequate control, no reviews incorporated this into their conclusions.\nConclusions Most Cochrane reviews of acupuncture therapy are dated and are also not current relative to the science of acupuncture biomechanism and the impact of ‘active’ sham arms. The handling of sham controls, combined with a lack of evaluation of verum intervention adequacy, contravenes a clear research standard and indicates that the efficacy of acupuncture is likely underestimated in Cochrane reviews.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003246232",
+      "relevant_to": [
+        "Acupuncture efficacy complications"
+      ]
+    },
+    {
+      "uid": "kci:ART002941041",
+      "title": "Efficacy of acupuncture for cardiopulmonary cerebral resuscitation: A systematic review and meta-analysis",
+      "authors": [
+        "Liu Yunlan",
+        "Ren Mengjuan",
+        "Kuang Zhuoran",
+        "Luo Xufei",
+        "Li Huishan",
+        "Zhang Yikai",
+        "Wen Wanxin",
+        "Cai  Yefeng",
+        "Ni Xiaojia",
+        "Chen Yaolong"
+      ],
+      "authors_short": "Liu Yunlan 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2023,
+      "doi": "10.1016/j.imr.2023.100925",
+      "kci_id": "ART002941041",
+      "pmid": null,
+      "score": 0.7927,
+      "citation_count": 1,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture efficacy",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 1
+      },
+      "abstract": "Background: Cerebral resuscitation is one of the main therapeutic aims in the treatment of cardiac arrest (CA) patients who experience a return of spontaneous circulation (ROSC). However, the therapeutic effects of current treatments are not ideal. The purpose of this study was to evaluate the efficacy of neurological function of acupuncture combined with conventional cardiopulmonary cerebral resuscitationthe (CPCR) for patients after ROSC.\nMethods: Seven electronic databases and other related websites were searched to identify studies on acupuncture combined with conventional CPCR for patients after ROSC. R software was used to conduct a meta-analysis, and the outcomes that could not be pooled were analyzed using a descriptive analysis.\nResults: Seven RCTs involving 411 participants who had experienced ROSC were eligible for inclusion. The main acupoints were Neiguan (PC6), Shuigou (DU26), Baihui (DU20), Yongquan (KI1), and Sanyinjiao (SP6). Compared to conventional CPCR, acupuncture combined with conventional CPCR led to signifi- cantly higher Glasgow Coma Scale (GCS) scores on day 3 (mean difference (MD) = 0.89, 95% CI: 0.43, 1.35, I 2 = 0%), day 5 (MD = 1.21, 95% CI: 0.27, 2.15; I 2 = 0%), and day 7 (MD = 1.92, 95% CI: 1.35, 2.50; I 2 = 0%).\nConclusion: Acupuncture-assisted conventional CPCR may have a potential role in improving neurologi- cal function in CA patients after ROSC, but the certainty of evidence is very low and more high-quality studies are required.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002941041",
+      "relevant_to": []
+    },
+    {
+      "uid": "kci:ART003275683",
+      "title": "The efficacy and safety of multiple acupuncture therapies in primary insomnia: A Bayesian network meta-analysis",
+      "authors": [
+        "Liguo Liu",
+        "Yiming Chen",
+        "Minne Tian",
+        "Zhennan Wu",
+        "Peiming Zhang",
+        "Tiankang Zhang",
+        "Jinsong Yang",
+        "Haotian Qu",
+        "Zhiyong Fan",
+        "Shan Wu",
+        "Liming Lu",
+        "Yu Kui"
+      ],
+      "authors_short": "Liguo Liu 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2025,
+      "doi": "10.1016/j.imr.2025.101206",
+      "kci_id": "ART003275683",
+      "pmid": null,
+      "score": 0.7869,
+      "citation_count": 2,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture efficacy",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 4
+      },
+      "abstract": "Background: Acupuncture (AT) therapy is an effective treatment for primary insomnia. However, no comprehensive study has compared and evaluated the efficacy and safety of multiple AT therapies and hypnotics.\nMethods: We searched eight databases from inception to July 2024 for randomized controlled trials (RCTs) of AT treatment for primary insomnia, including PubMed, Web of Science, Embase, Cochrane Library, Wanfang database, China National Knowledge Infrastructure database, and VIP Chinese Science and Technique Journals database. After screening, the Pittsburgh Sleep Quality Index (PSQI) score and clinical effectiveness rate were extracted from the included RCTs as outcome measures. We performed network meta-analysis using the Stata and R software.\nResults: Sixty-four RCTs involving 4443 patients were included in this study. Multiple AT therapies had better efficacy in improving PSQI scores than hypnotics, with AT combined with moxibustion (MOX) and AT combined with auriculotherapy (AU) as the best interventions. Regarding clinical effectiveness, acupoint catgut embedding (ACE) had the greatest potential of being the best intervention, and no serious adverse events related to AT therapies were observed in any of the studies.\nConclusion: This review suggests that most AT therapies improve sleep indicators and have good clinical efficacy compared to hypnotics, especially AT combined with AU, AT combined with MOX, and ACE. The safety of AT therapies is reliable; however, the overall quality of the included trials was low, and higher-quality RCTs are required to provide sufficient evidence.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003275683",
+      "relevant_to": []
+    },
+    {
+      "uid": "kci:ART003347105",
+      "title": "Efficacy of herbal medicine Xiao-Feng-San combined with auricular acupuncture for atopic dermatitis: A randomized controlled trial",
+      "authors": [
+        "Nga Thu Tran",
+        "An Hoa Tran",
+        "Dieu-Thuong Thi Trinh"
+      ],
+      "authors_short": "Nga Thu Tran 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2026,
+      "doi": "10.1016/j.imr.2025.101256",
+      "kci_id": "ART003347105",
+      "pmid": null,
+      "score": 0.7699,
+      "citation_count": 0,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture efficacy",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 2
+      },
+      "abstract": "Background: Atopic dermatitis (AD) is a common chronic inflammatory skin disease with a considerable burden. Xiao-Feng-San (XFS) has been widely used in traditional medicine for the wind-dampness-heat pattern. Auricular acupuncture (AA) may relieve AD symptoms, but its added benefit with XFS is unclear.\nMethods: In this randomized, sham-controlled clinical trial, 156 adults with non-severe AD and a wind-dampness-heat pattern, all of whom were prescribed XFS decoction, were additionally assigned to receive either AA (XFS plus AA group, n=78) or sham AA (XFS plus sham AA group, n=78) for four weeks. The primary outcome was the change in the SCORAD index from baseline to week 4. Secondary outcomes included fexofenadine use, Dermatology Life Quality Index (DLQI), serum total IgE, and adverse events.\nResults: Compared with the XFS plus sham AA, the XFS plus AA group showed a significantly greater reduction in SCORAD at week 4 (mean difference [MD] -9.1; p<0.0001), exceeding the minimal clinically important difference. DLQI also improved more in the XFS plus AA group (MD -1.8; p=0.0362). Fexofenadine use was lower in this group, though not significantly; no significant differences in serum total IgE were found. Adverse events were mild and transient.\nConclusions: Adding AA to XFS enhanced clinical outcomes and quality of life in patients with non-severe AD, with a favorable safety profile. These findings support AA as a promising adjunctive therapy in integrative approaches for AD. Further studies should validate these results across broader populations, with post-intervention follow-up, and diverse traditional medicine regimens.\nTrial registration information: ClinicalTrials.gov (NCT06492902).",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003347105",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:41246440",
+      "title": "Efficacy of acupuncture in racehorses: A review.",
+      "authors": [
+        "Purnama Muhammad Thohawi Elziyad",
+        "Fikri Faisal",
+        "Çalışkan Hakan",
+        "Wicaksono Arya Pradana"
+      ],
+      "authors_short": "Purnama Muhammad Thohawi Elziyad 외",
+      "journal": "Open veterinary journal",
+      "year": 2025,
+      "doi": "10.5455/OVJ.2025.v15.i10.1",
+      "kci_id": null,
+      "pmid": "41246440",
+      "score": 0.7523,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture efficacy",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "Racehorses endure high physical demands, which often result in musculoskeletal pain, fatigue, and reduced performance. Although conventional therapies are effective, competition-related drug regulations restrict their use. Acupuncture, rooted in Traditional Chinese Veterinary Medicine, has gained interest as a non-pharmacological alternative for managing pain, enhancing recovery, and promoting overall welfare in equine athletes. This review aims to critically evaluate the current evidence on the efficacy of acupuncture in racehorses, focusing on musculoskeletal pain management, post-exercise recovery, performance outcomes, and welfare implications. Studies published between 2015 and 2025 were identified, and a narrative review was conducted using PubMed, Scopus, ScienceDirect, and Web of Science. The inclusion criteria targeted original research on acupuncture or electroacupuncture in racehorses or comparable high-performance equines, with outcomes related to pain relief, recovery, or athletic performance. A total of 9 studies met the eligibility criteria, including randomized controlled trials, observational studies, and mechanistic reviews. Most studies have reported the beneficial effects of acupuncture on thoracolumbar pain, muscle tension, gait abnormalities, and metabolic recovery. Electroacupuncture was highlighted for its effectiveness in treating deep muscle conditions by modulating pain pathways and reducing inflammation. Observational reports also showed improvements in soreness, appetite, and demeanor after training. However, the treatment protocols, sample sizes, and outcome measures of the studies varied. The limited inclusion of objective performance metrics, such as heart rate variability and race outcomes, restricts the generalizability of the results. Acupuncture has potential as an adjunctive intervention for managing musculoskeletal conditions and the enhancement of recovery in racehorses. Despite encouraging findings, methodological inconsistencies and a paucity of high-powered, controlled trials limit the existing body of research. Future investigations should prioritize the implementation of standardized treatment protocols and the incorporation of objective, quantifiable outcome measures to substantiate their integration into evidence-based equine sports medicine.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/41246440/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:38493063",
+      "title": "Efficacy of acupuncture on cancer pain: A systematic review and meta-analysis.",
+      "authors": [
+        "Faria Miguel",
+        "Teixeira Mónica",
+        "Pinto Maria João",
+        "Sargento Paulo"
+      ],
+      "authors_short": "Faria Miguel 외",
+      "journal": "Journal of integrative medicine",
+      "year": 2024,
+      "doi": "10.1016/j.joim.2024.03.002",
+      "kci_id": null,
+      "pmid": "38493063",
+      "score": 0.9585,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND efficacy AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 1
+      },
+      "abstract": "Pain associated with cancer is one of the greatest causes of reduced quality of life in patients. Acupuncture is one of the treatments used to address this issue, with the great advantage of having little or no side effects, especially when compared with pharmacological pain-killers. The aim of this systematic review and meta-analysis was to evaluate the current evidence regarding the efficacy of acupuncture for cancer pain. Six electronic databases (PubMed, EBSCO, Cochrane Library, Scielo, b-On and Scopus) were searched for relevant articles about pain relief in cancer patients from their beginning until 2022 using MeSH terms such as \"acupuncture,\" \"electroacupuncture,\" \"ear acupuncture,\" \"acupuncture analgesia,\" ''oncological pain,\" and \"cancer pain.\" Studies included were randomized controlled trials (RCTs) where acupuncture was compared with no treatment, placebo acupuncture or usual care. Three independent reviewers participated in data extraction and evaluation of risk of bias, and a meta-analysis was conducted. The primary outcome was pain intensity, measured with the visual analog scale, numeric rating scale, or brief pain inventory. Secondary outcomes also assessed were quality of life, functionality, xerostomia, pain interference, and analgesic consumption. Results were expressed as standardized mean difference (SMD) with 95% confidence interval (CI). Sixteen RCTs with a total of 1124 participants were included in the meta-analysis, with the majority of the studies presenting a low or unclear risk of bias. Acupuncture was more effective in reducing pain than no treatment (SMD = -0.90, 95 % CI [-1.68, -0.12]), sham acupuncture (SMD = -1.10, 95 % CI [-1.59, -0.61]) or usual care (SMD = -1.16, 95 % CI [-1.38, -0.93]). The results of this study suggest that acupuncture may be an effective intervention to reduce pain associated with cancer. Despite some limitations due to the low quality and small sample size of some included studies, as well as the different types and stages of cancer, acupuncture might provide an effective and safe treatment to reduce cancer pain. Please cite this article as: Faria M, Teixeira M, Pinto MJ, Sargento P. Efficacy of acupuncture on cancer pain: A systematic review and meta-analysis. J Integr Med. 2024; 22(3): 235-244.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/38493063/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:36716811",
+      "title": "Efficacy of acupuncture for endometriosis-associated pain: a multicenter randomized single-blind placebo-controlled trial.",
+      "authors": [
+        "Li Pei Shuang",
+        "Peng Xue Mei",
+        "Niu Xiang Xin",
+        "Xu Ling",
+        "Hung Yu Ng Ernest",
+        "Wang Chi Chiu",
+        "Dai Jin Fang",
+        "Lu Jun",
+        "Liang Rui Ning"
+      ],
+      "authors_short": "Li Pei Shuang 외",
+      "journal": "Fertility and sterility",
+      "year": 2023,
+      "doi": "10.1016/j.fertnstert.2023.01.034",
+      "kci_id": null,
+      "pmid": "36716811",
+      "score": 0.7875,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND efficacy AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "To evaluate the efficacy and safety of acupuncture in the treatment of endometriosis-associated pain. A multicenter, randomized, single-blind, placebo-controlled trial. Four tertiary hospitals in Jiangxi and Hainan Provinces. Women with endometriosis-associated pain aged between 20 and 40 years. Subjects were assigned randomly to receive either acupuncture or sham acupuncture treatment for 12 weeks, starting one week before each expected menstruation and administered as a 30-minute session once per day, 3 times a week. During the menstruation period, acupuncture was administered daily when pelvic pain associated with endometriosis occurred. After acupuncture or sham acupuncture treatment, the subjects were followed for another 12 weeks. Changes in maximum pain as assessed with the visual analog scale (VAS) for various pelvic pain, duration of dysmenorrhea, and scores on the Multidimensional Pain Inventory, Beck Depression Inventory, Profile of Mood States, and Endometriosis Health Profile from baseline to week 12 and week 24. A total of 106 women were assigned randomly to the acupuncture and sham groups. In the acupuncture group, the reduction in the dysmenorrhea VAS score was significantly greater after treatment, but not at the end of the trial, compared to the sham group. The duration of pain was significantly shorter in the acupuncture group. All test scores were improved to a significantly greater extent in the acupuncture group than in the sham group at week 12 but not at week 24. Changes in nonmenstrual pelvic pain and dyspareunia VAS scores were not different between the groups. No severe adverse events or differences in adverse events were recorded. Acupuncture is an effective and safe method of relieving dysmenorrhea, shortening the pain duration, and improving wellbeing and quality of life in women with endometriosis-associated pain, although its efficacy fades after treatment is discontinued. NCT03125304.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/36716811/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:41030326",
+      "title": "Application of Acupuncture in Diabetic Vascular Complications: Efficacy and Potential Mechanisms.",
+      "authors": [
+        "Wang Zhifeng",
+        "Chen Ying",
+        "Shi Ting",
+        "Yang Jiao",
+        "Tian Daman",
+        "Wu Hongyan",
+        "Zhao Rong",
+        "Wang Ruirui",
+        "Xing Liwei"
+      ],
+      "authors_short": "Wang Zhifeng 외",
+      "journal": "Journal of diabetes research",
+      "year": 2025,
+      "doi": "10.1155/jdr/6934081",
+      "kci_id": null,
+      "pmid": "41030326",
+      "score": 0.6645,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND efficacy AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 3
+      },
+      "abstract": "Diabetes and its complications are a major global public health issue. Conventional Western medicine has limitations in efficacy and safety in managing complications, while acupuncture, with multitarget regulation and low side effects, serves as an important supplementary therapy. This review discusses how acupuncture relieves macrovascular complications, such as angina and cerebral reperfusion, by inhibiting NF-B, improving vascular endothelial function, and regulating autonomic nerves. In addition, acupuncture delays microvascular complications, such as retinopathy and proteinuria via vasodilation, anti-inflammatory effects, antioxidative effects, and neurotrophic promotion. Acupuncture also benefits other complications by enhancing microcirculation and neuroendocrine function. The mechanisms of acupuncture involve regulating the metabolic-inflammatory-neurovascular network, activating pathways (such as GLP-1 and SDF-1), and repairing cellular structures. Modern technologies-including artificial intelligence (AI) for individualized acupoint selection, functional magnetic resonance imaging (fMRI) for central regulation visualization, and biomaterial combination for diabetic foot repair-enhance the precision of acupuncture. However, clinical translation of acupuncture faces the following challenges: fragmented mechanisms; insufficient clinical evidence, including small samples, short follow-ups, and a lack of long-term safety data when used with new hypoglycemics; and technical nonstandardization, such as inconsistent acupoint selection, nonuniform operation parameters, and poor adaptability of AI to traditional Chinese medicine syndrome differentiation. Future research should deepen the exploration of the neuroendocrine-immune network via interdisciplinary integration, conducting large-sample long-term trials, establishing standardized protocols, and validating AI/fMRI-assisted precision acupoint selection to accelerate the transition of acupuncture from adjuvant to precision therapy to improve patients' quality of life.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/41030326/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:39401008",
+      "title": "Acupuncture vs Sham Acupuncture for Chronic Sciatica From Herniated Disk: A Randomized Clinical Trial.",
+      "authors": [
+        "Tu Jian-Feng",
+        "Shi Guang-Xia",
+        "Yan Shi-Yan",
+        "Ni Guang-Xia",
+        "Yu Fang-Ting",
+        "Cai Guo-Wei",
+        "Liu Zhi-Shun",
+        "Ma Chao-Yang",
+        "Wang Li-Qiong",
+        "Yang Jing-Wen",
+        "Zhou Xiao-Qing",
+        "Meng Xiu-Li",
+        "Fu Hai-Yang",
+        "Li Jing",
+        "Wan Wen-Jun",
+        "Sun Tian-Heng",
+        "Wang Xue-Zhou",
+        "Liu Cun-Zhi"
+      ],
+      "authors_short": "Tu Jian-Feng 외",
+      "journal": "JAMA internal medicine",
+      "year": 2024,
+      "doi": "10.1001/jamainternmed.2024.5463",
+      "kci_id": null,
+      "pmid": "39401008",
+      "score": 0.5015,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND efficacy AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 4
+      },
+      "abstract": "Sciatica is commonly caused by herniated lumbar disc and contributes to severe pain and prolonged disability. Although acupuncture is widely used by patients with chronic sciatica, the evidence of its efficacy is scarce. To investigate the efficacy and safety of acupuncture compared with sham acupuncture in patients with chronic sciatica from herniated disk. This was a multicenter 2-arm randomized clinical trial conducted in 6 tertiary-level hospitals in China of patients with chronic sciatica from herniated disk. Participants were recruited from March 25, 2021, to September 23, 2021, with a final follow-up through September 22, 2022. Data analyses were performed from December 2022 to March 2023. Participants were randomly assigned to receive 10 sessions of acupuncture (n = 110) or sham acupuncture (n = 110) over 4 weeks. Participants, outcome assessors, and statisticians were blinded. The 2 coprimary outcomes were changes in visual analog scale (VAS) for leg pain and Oswestry Disability Index (ODI) from baseline to week 4. Secondary outcomes were adverse events. A total of 216 patients (mean [SD] age, 51.3 [15.2] years; 147 females [68.1%] and 69 males [31.9%]) were included in the analyses. The VAS for leg pain decreased 30.8 mm in the acupuncture group and 14.9 mm in the sham acupuncture group at week 4 (mean difference, -16.0; 95% CI, -21.3 to -10.6; P < .001). The ODI decreased 13.0 points in the acupuncture group and 4.9 points in the sham acupuncture group at week 4 (mean difference, -8.1; 95% CI, -11.1 to -5.1; P < .001). For both VAS and ODI, the between-group difference became apparent starting in week 2 (mean difference, -7.8; 95% CI, -13.0 to -2.5; P = .004 and -5.3; 95% CI, -8.4 to -2.3; P = .001, respectively) and persisted through week 52 (mean difference, -10.8; [95% CI, -16.3 to -5.2; P < .001; and -4.8; 95% CI, -7.8 to -1.7; P = .003, respectively). No serious adverse events occurred. This randomized clinical trial found that in patients with chronic sciatica from herniated disk, acupuncture resulted in less pain and better function compared with sham acupuncture at week 4, and these benefits persisted through week 52. Acupuncture should be considered as a potential treatment option for patients with chronic sciatica from a herniated disk. Chictr.org Identifier: ChiCTR2100044585.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/39401008/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:38922617",
+      "title": "Acupuncture and Sleep Quality Among Patients With Parkinson Disease: A Randomized Clinical Trial.",
+      "authors": [
+        "Yan Mingyue",
+        "Fan Jingqi",
+        "Liu Xin",
+        "Li Yingjia",
+        "Wang Yuting",
+        "Tan Weiqiang",
+        "Chen Yuanyuan",
+        "He Jun",
+        "Zhuang Lixing"
+      ],
+      "authors_short": "Yan Mingyue 외",
+      "journal": "JAMA network open",
+      "year": 2024,
+      "doi": "10.1001/jamanetworkopen.2024.17862",
+      "kci_id": null,
+      "pmid": "38922617",
+      "score": 0.3585,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND efficacy AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 5
+      },
+      "abstract": "Poor sleep quality greatly impairs quality of life and accelerates deterioration in patients with Parkinson disease (PD), but current remedies remain limited. Acupuncture, used as an adjunctive therapy with anti-Parkinson medications, has shown positive effects in patients with PD. However, high-quality clinical evidence to support the effectiveness of acupuncture for patients with PD and poor sleep quality is lacking. To assess the safety and efficacy of real acupuncture (RA) vs sham acupuncture (SA) as an adjunctive therapy for patients with PD who have poor sleep quality. This single-center randomized clinical trial was performed at The First Affiliated Hospital of Guangzhou University of Chinese Medicine in China from February 18, 2022, to February 18, 2023. Patients with PD and sleep complaints were recruited and randomized (1:1) to receive RA or SA treatment for 4 weeks. Data analysis was performed from April 12 to August 17, 2023. Treatment with RA or SA for 4 weeks. The main outcome was the change in Parkinson Disease Sleep Scale (PDSS) scores measured at baseline, after 4 weeks of treatment, and at 8 weeks of follow-up. Of the 83 participants enrolled, 78 (94.0%) completed the intervention and were included in the analysis. Their mean (SD) age was 64.1 (7.9) years; 41 (52.6%) were men and 37 (47.4%) were women. A significant increase in PDSS scores from baseline was observed for both the RA group (29.65 [95% CI, 24.65-34.65]; P < .001) and the SA group (10.47 [95% CI, 5.35-15.60]; P < .001). Compared with the SA group, the RA group had a significant increase in PDSS scores after 4 weeks of treatment (19.75 [95% CI, 11.02-28.49]; P < .001) and at 8 weeks of follow-up (20.24 [95% CI, 11.51-28.98]; P < .001). In this randomized clinical trial, acupuncture proved beneficial in improving sleep quality and quality of life among patients with PD. These findings suggest that the therapeutic effects of acupuncture could continue for up to 4 weeks. Chinese Clinical Trial Registry Identifier: ChiCTR2200060655.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/38922617/",
+      "relevant_to": []
+    },
+    {
+      "uid": "kci:ART002848389",
+      "title": "Effect of abdominal acupuncture combined with routine rehabilitation training on shoulder-hand syndrome after stroke: A randomized controlled trial",
+      "authors": [
+        "Zhan Jie",
+        "Ai Yirang",
+        "Zhan Lechang",
+        "Pan Ruihuan",
+        "Wang Yiqiao",
+        "Dong Cong",
+        "Wang Qiuchun",
+        "Chen Hongxia",
+        "Lu Liming",
+        "Li Mei"
+      ],
+      "authors_short": "Zhan Jie 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2022,
+      "doi": "10.1016/j.imr.2021.100805",
+      "kci_id": "ART002848389",
+      "pmid": null,
+      "score": 0.8695,
+      "citation_count": 14,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture rehabilitation",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 4
+      },
+      "abstract": "Background: Post-stroke shoulder-hand syndrome (SHS) is a common complication after stroke. To date, there is still a lack of consistently effective and good patient compliance methods for SHS.\nMethods: Fifty patients with SHS were included in this study. Patients in the control group received rehabilitation training (RT) for 2 weeks; each session was 30 min, 1 time per day, and 5 times per week. Patients in the observation group were additionally given Bo's abdominal acupuncture (BAA) with the same frequency and duration. The primary outcome was the change value in the VAS score from baseline to 2 weeks. The secondary outcomes measured were motor function of the upper limb, shoulder range of motion, ADL, and swelling volume.\nResults: Compared with baseline values, the mean VAS score at 2 weeks was reduced by 3.68 in the observation group and by 1.92 in the control group, with a difference between the two groups of 1.84 (P < 0.001); the mean MBI score at 2 weeks increased by 10.44 in the observation group and by 4.79 in the control group, with a difference between the two groups of 5.84 (P = 0.032); the mean swelling volume at 2 weeks decreased by 9.64 in the observation group and by 3.29 in the control group, with a difference between the two groups of 6.48 (P < 0.001). BAA-related adverse events were not found during the study.\nConclusions: BAA combined with RT is superior to RT alone in improving shoulder pain, swelling, and ADL in post-stroke SHS patients.\nTrial registration: ChiCTR2100045464 (www.chictr.org.cn).",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002848389",
+      "relevant_to": [
+        "Acupuncture post-stroke complications",
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "kci:ART002998944",
+      "title": "Acupuncture as an Additional Method of Rehabilitation Post-COVID-19: a randomized controlled trial",
+      "authors": [
+        "Omarova Indira",
+        "Akanova Assiya",
+        "Kurmanova Almagul",
+        "Kurmanova Gaukhar",
+        "Glushkova Natalya",
+        "Seidanova Amina",
+        "Turysbekov Kuatzhan",
+        "Omarova Indira"
+      ],
+      "authors_short": "Omarova Indira 외",
+      "journal": "Journal of Pharmacopuncture",
+      "year": 2023,
+      "doi": "10.3831/KPI.2023.26.3.238",
+      "kci_id": "ART002998944",
+      "pmid": null,
+      "score": 0.8471,
+      "citation_count": 3,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture rehabilitation",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 1
+      },
+      "abstract": "Objectives: The purpose of this study was to evaluate the effectiveness of complex rehabilitation with and without acupuncture in a hospital setting.\nMethods: A randomized clinical trial was performed at Rehabilitation center “Kamenskoe Plato” in Almaty, Kazakhstan. 160 patients with Post COVID-19 condition were randomly equally divided into an acupuncture with complex rehabilitation methods and a only complex rehabilitation methods group in the period from March 1, 2022 to July 1, 2022. Either groups was performed for an 10-14 days period. The outcome measures were the Bartel index, the Borg scale, Modified Dyspnea Scale and the 6-minute walking test. Adverse events also were monitored and documented.\nResults: We found statistically significant improvement after the rehabilitation course with acupuncture in the all scales. And in the group without acupuncture, only on two scales: MDS and Borg scale.\nConclusion: Rehabilitation with acupuncture is possible and effective in patients recovering from post-COVID-19. Our findings may be useful to guide clinicians taking care of patients with post-COVID-19.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002998944",
+      "relevant_to": []
+    },
+    {
+      "uid": "kci:ART002903064",
+      "title": "The role of acupuncture and moxibustion in the treatment, prevention, and rehabilitation of patients with COVID-19: A scoping review",
+      "authors": [
+        "Mengjuan Ren",
+        "Yunlan Liu",
+        "Xiaojia Ni",
+        "Zhuoran Kuang",
+        "Xufei Luo",
+        "Yikai Zhang",
+        "Huishan Li",
+        "Yaolong Chen"
+      ],
+      "authors_short": "Mengjuan Ren 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2022,
+      "doi": "10.1016/j.imr.2022.100886",
+      "kci_id": "ART002903064",
+      "pmid": null,
+      "score": 0.8392,
+      "citation_count": 12,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture rehabilitation",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 5
+      },
+      "abstract": "Introduction: This study aims to summarize the available evidence and guideline/consensus recommendations for acupuncture and moxibustion in the treatment, prevention and rehabilitation of patients with coronavirus disease 2019 (COVID-19).\nMethods: A scoping review was performed. Eight electronic databases and other related websites were searched. All studies related to acupuncture and moxibustion for COVID-19 were considered. Descriptive analysis was applied to analyze the all included studies and guideline recommendations.\nResults: We ultimately included 131 eligible studies. The main topics of the included studies were the treatment (82.4%) and prevention (38.9%) of COVID-19. The most included studies were literature reviews (65, 49.6%), protocols of systematic reviews (20, 15.3%), and guidelines and consensuses (18, 13.7%). The 18 (13.7%) COVID-19 guidelines and consensuses included 47 recommendations on acupuncture and moxibustion, which focused on the treatment (21/47, 44.7%), rehabilitation (17/47, 36.2%) and prevention (6, 12.8%) of COVID-19 patients. Zusanli (ST36), Feishu (BL13), Guanyuan (RN4) were recommended mostly for the treatment, rehabilitation and prevention respectively.\nConclusion: Acupuncture and moxibustion are effective in the treatment of COVID-19 patients to some extent. However, more high-quality of clinical trials still needed to determine the feasibility of acupuncture and moxibustion in COVID-19 patients to better guide clinical practice.\nStudy registration: Open Science Framework Registries (Registration DOI: 10.17605/OSF.IO/Z35WN; https://osf.io/z35wn).",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002903064",
+      "relevant_to": []
+    },
+    {
+      "uid": "kci:ART003301579",
+      "title": "Integrative Approach Using Sa-am Acupuncture and Vestibular Rehabilitation for Vestibular Dysfunction with Ramsay Hunt Syndrome: A Case Report",
+      "authors": [
+        "Kim Yohwan",
+        "Noh Seungjin",
+        "Kim Taegon",
+        "Jang Haeryoung",
+        "Kim Yong-Suk",
+        "Lee Seunghoon"
+      ],
+      "authors_short": "Kim Yohwan 외",
+      "journal": "Journal of Acupuncture Research",
+      "year": 2026,
+      "doi": "10.13045/jar.25.0035",
+      "kci_id": "ART003301579",
+      "pmid": null,
+      "score": 0.7699,
+      "citation_count": 0,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture rehabilitation",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 2
+      },
+      "abstract": "A 63-year-old woman with persistent dizziness following Ramsay Hunt syndrome received 18 days of integrative Korean medicine treatment. The intervention included daily Sa-am acupuncture (phlegm–dizziness method, a modification of the lung–sedation pattern), vestibular rehabilitation using Cawthorne–Cooksey and Hamid protocols, and herbal medicine. Following treatment, the numeric rating scale score for symptom severity improved from 8 to 1. Significant improvements were also observed in the Dizziness Handicap Inventory, Vestibular Disorders Activities of Daily Living Scale, and quality of life (EQ-5D-3L and EQ-VAS). Prednisolone was successfully tapered from 20 to 10 mg daily. On discharge, the patient regained independent ambulation without assistive devices, and no adverse events were reported. This case highlights the potential benefits of integrative Korean medicine combining Sa-am acupuncture and vestibular rehabilitation for refractory dizziness associated with Ramsay Hunt syndrome.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003301579",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:40069127",
+      "title": "Acupuncture combined with pelvic floor rehabilitation training for postpartum stress urinary incontinence: A systematic review and meta-analysis.",
+      "authors": [
+        "Chu Wenming",
+        "Deng Xiaoman",
+        "Gao Ling",
+        "Gao Xiyan"
+      ],
+      "authors_short": "Chu Wenming 외",
+      "journal": "Clinical rehabilitation",
+      "year": 2025,
+      "doi": "10.1177/02692155251324585",
+      "kci_id": null,
+      "pmid": "40069127",
+      "score": 0.7523,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture rehabilitation",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "ObjectivePostpartum stress urinary incontinence is a common postpartum complication. Acupuncture combined with pelvic floor rehabilitation training has certain clinical effects. This systematic review and meta-analysis aims to investigate the efficacy of acupuncture combined with pelvic floor rehabilitation training in the treatment of postpartum stress urinary incontinence.Data sourcesWe searched randomized controlled trials in eight databases including PubMed, Web of Science, EMBASE, Cochrane Library, CNKI, Wanfang, VIP, and Sinomed, as well as the Chinese Clinical Trial Registry and ClinicalTrials.gov databases. The search was conducted on 6 February 2025.MethodsAfter the retrieved literature were screened and the relevant data were extracted, RevMan 5.4 software was used to conduct the statistical analysis. The risk of bias was assessed using the methods recommended in the ResultsTwenty-one studies with 1867 participants were included in the review. Compared with pelvic floor rehabilitation training alone, acupuncture combined with pelvic floor rehabilitation training improved the clinical efficacy rate (relative risk (RR) = 1.24, 95% CI = 1.19-1.29) and pelvic floor muscle potential (mean difference (MD) = 10.85, 95% CI = 9.28-12.43) and reduced the International Consultation on Incontinence Questionnaire-Urinary Incontinence Short Form score (MD = -2.32, 95% CI = -3.06 to -1.58) and 1-hour pad test (MD = -1.80, 95% CI = -2.32 to -1.28) in patients with postpartum stress urinary incontinence.ConclusionCurrent literature reviewed here suggests that the combination of acupuncture and pelvic floor rehabilitation training may offer benefits in the management of stress urinary incontinence in postpartum women over pelvic floor rehabilitation training alone.Registration numberPROSPERO CRD42023455801.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/40069127/",
+      "relevant_to": []
+    },
+    {
+      "uid": "pubmed:29143805",
+      "title": "Mechanisms of Acupuncture Therapy in Ischemic Stroke Rehabilitation: A Literature Review of Basic Studies.",
+      "authors": [
+        "Chavez Lina M",
+        "Huang Shiang-Suo",
+        "MacDonald Iona",
+        "Lin Jaung-Geng",
+        "Lee Yu-Chen",
+        "Chen Yi-Hung"
+      ],
+      "authors_short": "Chavez Lina M 외",
+      "journal": "International journal of molecular sciences",
+      "year": 2017,
+      "doi": "10.3390/ijms18112270",
+      "kci_id": null,
+      "pmid": "29143805",
+      "score": 0.8904,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND rehabilitation AND stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 1
+      },
+      "abstract": "Acupuncture is recommended by the World Health Organization (WHO) as an alternative and complementary strategy for stroke treatment and for improving stroke care. Clinical trial and meta-analysis findings have demonstrated the efficacy of acupuncture in improving balance function, reducing spasticity, and increasing muscle strength and general well-being post-stroke. The mechanisms underlying the beneficial effects of acupuncture in stroke rehabilitation remain unclear. The aim of this study was to conduct a literature review, summarize the current known mechanisms in ischemic stroke rehabilitation through acupuncture and electroacupuncture (EA) therapy, and to detail the frequently used acupoints implicated in these effects. The evidence in this review indicates that five major different mechanisms are involved in the beneficial effects of acupuncture/EA on ischemic stroke rehabilitation: (1) Promotion of neurogenesis and cell proliferation in the central nervous system (CNS); (2) Regulation of cerebral blood flow in the ischemic area; (3) Anti-apoptosis in the ischemic area; (4) Regulation of neurochemicals; and, (5) Improvement of impaired long-term potentiation (LTP) and memory after stroke. The most frequently used acupoints in basic studies include Baihui (GV20), Zusanli (ST36), Quchi (LI11), Shuigou (GV26), Dazhui (GV14), and Hegu (LI4). Our findings show that acupuncture exerts a beneficial effect on ischemic stroke through modulation of different mechanisms originating in the CNS.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/29143805/",
+      "relevant_to": [
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "pubmed:34446530",
+      "title": "Would integrated Western and traditional Chinese medicine have more benefits for stroke rehabilitation? A systematic review and meta-analysis.",
+      "authors": [
+        "Zhong Linda Ld",
+        "Zheng Ya",
+        "Lau Alexander Y",
+        "Wong Norman",
+        "Yao Liang",
+        "Wu Xingyao",
+        "Shao Tengteng",
+        "Lu Zhenxing",
+        "Li Huijuan",
+        "Yuen Chun Sum",
+        "Guo Jianwen",
+        "Lo Suzanne",
+        "Chau Janita",
+        "Chan Kam Wa",
+        "Ng Bacon Fung Leung",
+        "Bian Zhaoxiang",
+        "Yu Edwin Chau-Leung"
+      ],
+      "authors_short": "Zhong Linda Ld 외",
+      "journal": "Stroke and vascular neurology",
+      "year": 2022,
+      "doi": "10.1136/svn-2020-000781",
+      "kci_id": null,
+      "pmid": "34446530",
+      "score": 0.7754,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND rehabilitation AND stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "Stroke is a major cause of death or long-term disability worldwide. Many patients with stroke receive integrative therapy consisting of Western medicine (WM) and routine rehabilitation in conjunction with Chinese medicine (CM), such as acupuncture and Chinese herbal medicine. However, there is no available evidence on the effectiveness of the combined use of WM and CM interventions in stroke rehabilitation. The purpose of this meta-analysis is to evaluate the results of all individual studies to assess the combined use of CM and WM in stroke rehabilitation compared with WM only. The Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines were followed. MEDLINE, EMBASE, Cochrane and China National Knowledge Infrastructure (CNKI) were searched. The included outcomes were dependency, motor function, depression and swallowing function. Subgroup analysis was performed, and publication bias was assessed using funnel plots. 58 studies and 6339 patients were included in the meta-analysis. Subgroup analysis revealed that combined therapy comprising both acupuncture and WM had a superior effect on improving dependency and swallowing function compared with standard WM therapy alone. Potential superiority of combined therapy comprising CM and WM in improving depression compared with standard WM therapy was also found. Our results indicate that the combined use of CM and WM could be more efficacious in stroke rehabilitation compared with the use of WM therapy alone. However, most studies were short in duration (2 to 4 weeks) and prone to different types of biases, which prevents making any conclusion regarding the long-term effects and raises concerns regarding true efficacy in context of high likelihood of Hawthorn bias. So, more randomised controlled trials with more rigorous design and longer duration of treatment and follow-up need to be conducted to compare WM alone versus WM and CM combined. CRD42020152050.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/34446530/",
+      "relevant_to": [
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "pubmed:33371155",
+      "title": "Effect of acupuncture treatment on post-stroke cognitive impairment: A randomized controlled trial.",
+      "authors": [
+        "Du Yuzheng",
+        "Zhang Lili",
+        "Liu Wei",
+        "Rao Chang",
+        "Li Boxuan",
+        "Nan Xi",
+        "Li Zefang",
+        "Jiang Hailun"
+      ],
+      "authors_short": "Du Yuzheng 외",
+      "journal": "Medicine",
+      "year": 2020,
+      "doi": "10.1097/MD.0000000000023803",
+      "kci_id": null,
+      "pmid": "33371155",
+      "score": 0.3125,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND rehabilitation AND stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 5
+      },
+      "abstract": "Post-stroke cognitive impairment (PSCI), which has a high morbidity, is closely associated with the recurrence and rehabilitation of ischemic stroke. There are 2 different stages of PSCI, including post-stroke cognitive impairment with no dementia (PSCIND) and post-stroke dementia (PSD). The latter has a significantly higher mortality rate than the previous one. Therefore, preventing the onset of PSD is of vital importance. However, there is no unequivocally effective prevention or treatment for PSCI, except intensive secondary prevention of stroke. The primary aim of this protocol is to explore whether acupuncture can improve cognitive function of patients with PSCIND and reduce the chances of developing PSD. On this bias, we also want to explore its possible mechanisms. A prospective, multicenter, large sample, randomized controlled trial will be conducted. A total of 360 eligible patients will be recruited from 5 different hospitals and randomly allocated into the acupuncture group (AG), sham acupuncture group (NAG), and waiting-list group (WLG) in a 1:1:1 ratio. The intervention period of NAG and AG will last 3 months (30 minutes per day, 3 times per week). Primary and secondary outcomes will be measured at baseline, 12 weeks (at the end of the intervention), 24 weeks (after the 12-week follow-up period), and 36 weeks (after the 24-week follow-up period). Resting-state and task-state functional MRI will be conducted at baseline and 12 weeks. The ethic committee of First Teaching Hospital of University of Traditional Chinese Medicine approved the study. Study results will be first informed to each participant and later disseminated to researchers, and the general public through courses, presentations and the internet, regardless of the magnitude or direction of effect. The results will also be documented in a published peer-reviewed academic journal. We have registered at ClinicalTrials.gov(ChiCTR2000033801).",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/33371155/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    }
+  ],
+  "pool": [
+    {
+      "uid": "pubmed:29143805",
+      "title": "Mechanisms of Acupuncture Therapy in Ischemic Stroke Rehabilitation: A Literature Review of Basic Studies.",
+      "authors": [
+        "Chavez Lina M",
+        "Huang Shiang-Suo",
+        "MacDonald Iona",
+        "Lin Jaung-Geng",
+        "Lee Yu-Chen",
+        "Chen Yi-Hung"
+      ],
+      "authors_short": "Chavez Lina M 외",
+      "journal": "International journal of molecular sciences",
+      "year": 2017,
+      "doi": "10.3390/ijms18112270",
+      "kci_id": null,
+      "pmid": "29143805",
+      "score": 0.8904,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND rehabilitation AND stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 1
+      },
+      "abstract": "Acupuncture is recommended by the World Health Organization (WHO) as an alternative and complementary strategy for stroke treatment and for improving stroke care. Clinical trial and meta-analysis findings have demonstrated the efficacy of acupuncture in improving balance function, reducing spasticity, and increasing muscle strength and general well-being post-stroke. The mechanisms underlying the beneficial effects of acupuncture in stroke rehabilitation remain unclear. The aim of this study was to conduct a literature review, summarize the current known mechanisms in ischemic stroke rehabilitation through acupuncture and electroacupuncture (EA) therapy, and to detail the frequently used acupoints implicated in these effects. The evidence in this review indicates that five major different mechanisms are involved in the beneficial effects of acupuncture/EA on ischemic stroke rehabilitation: (1) Promotion of neurogenesis and cell proliferation in the central nervous system (CNS); (2) Regulation of cerebral blood flow in the ischemic area; (3) Anti-apoptosis in the ischemic area; (4) Regulation of neurochemicals; and, (5) Improvement of impaired long-term potentiation (LTP) and memory after stroke. The most frequently used acupoints in basic studies include Baihui (GV20), Zusanli (ST36), Quchi (LI11), Shuigou (GV26), Dazhui (GV14), and Hegu (LI4). Our findings show that acupuncture exerts a beneficial effect on ischemic stroke through modulation of different mechanisms originating in the CNS.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/29143805/",
+      "relevant_to": [
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "kci:ART002848389",
+      "title": "Effect of abdominal acupuncture combined with routine rehabilitation training on shoulder-hand syndrome after stroke: A randomized controlled trial",
+      "authors": [
+        "Zhan Jie",
+        "Ai Yirang",
+        "Zhan Lechang",
+        "Pan Ruihuan",
+        "Wang Yiqiao",
+        "Dong Cong",
+        "Wang Qiuchun",
+        "Chen Hongxia",
+        "Lu Liming",
+        "Li Mei"
+      ],
+      "authors_short": "Zhan Jie 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2022,
+      "doi": "10.1016/j.imr.2021.100805",
+      "kci_id": "ART002848389",
+      "pmid": null,
+      "score": 0.8695,
+      "citation_count": 14,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture rehabilitation",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 4
+      },
+      "abstract": "Background: Post-stroke shoulder-hand syndrome (SHS) is a common complication after stroke. To date, there is still a lack of consistently effective and good patient compliance methods for SHS.\nMethods: Fifty patients with SHS were included in this study. Patients in the control group received rehabilitation training (RT) for 2 weeks; each session was 30 min, 1 time per day, and 5 times per week. Patients in the observation group were additionally given Bo's abdominal acupuncture (BAA) with the same frequency and duration. The primary outcome was the change value in the VAS score from baseline to 2 weeks. The secondary outcomes measured were motor function of the upper limb, shoulder range of motion, ADL, and swelling volume.\nResults: Compared with baseline values, the mean VAS score at 2 weeks was reduced by 3.68 in the observation group and by 1.92 in the control group, with a difference between the two groups of 1.84 (P < 0.001); the mean MBI score at 2 weeks increased by 10.44 in the observation group and by 4.79 in the control group, with a difference between the two groups of 5.84 (P = 0.032); the mean swelling volume at 2 weeks decreased by 9.64 in the observation group and by 3.29 in the control group, with a difference between the two groups of 6.48 (P < 0.001). BAA-related adverse events were not found during the study.\nConclusions: BAA combined with RT is superior to RT alone in improving shoulder pain, swelling, and ADL in post-stroke SHS patients.\nTrial registration: ChiCTR2100045464 (www.chictr.org.cn).",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002848389",
+      "relevant_to": [
+        "Acupuncture post-stroke complications",
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "kci:ART003246232",
+      "title": "Cochrane reviews of acupuncture are dated, do not account for the specific effects of sham controls and likely underestimate the efficacy of acupuncture therapy",
+      "authors": [
+        "Arya Nielsen",
+        "L. Susan Wieland"
+      ],
+      "authors_short": "Arya Nielsen 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2025,
+      "doi": "10.1016/j.imr.2025.101195",
+      "kci_id": "ART003246232",
+      "pmid": null,
+      "score": 0.8553,
+      "citation_count": 5,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture efficacy",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 3
+      },
+      "abstract": "Background Because Cochrane reviews represent a quality standard for systematic reviews, we sought to clarify to what extent Cochrane reviews of acupuncture characterize the potential and problematic specific effects of sham acupuncture.\nMethods We imported records of Cochrane acupuncture reviews into Covidence and independently selected reviews with at least one included study comparing manual acupuncture to sham acupuncture. Dual data extraction for eligible reviews included review author expertise, evaluation of intervention adequacy, use of STRICTA guidelines, characterization of sham methods, and whether specific effects of sham were discussed relative to needle penetration, point selection or use of a sham device.\nResults Of the 56 reviews with acupuncture in the title, 16 were ineligible. Of the 40 included reviews, 28 were published in or before 2018. Most reviews had an author with acupuncture trial expertise; however, assessment of intervention adequacy was rarely conducted, STRICTA guidelines were rarely utilized, and reporting of sham acupuncture methods was commonly either missing or lacking rigor. While 20/40 reviews acknowledged the controversy regarding sham as an active and therefore inadequate control, no reviews incorporated this into their conclusions.\nConclusions Most Cochrane reviews of acupuncture therapy are dated and are also not current relative to the science of acupuncture biomechanism and the impact of ‘active’ sham arms. The handling of sham controls, combined with a lack of evaluation of verum intervention adequacy, contravenes a clear research standard and indicates that the efficacy of acupuncture is likely underestimated in Cochrane reviews.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003246232",
+      "relevant_to": [
+        "Acupuncture efficacy complications"
+      ]
+    },
+    {
+      "uid": "kci:ART003119178",
+      "title": "Case Report: Improvement of 3 Stroke Patients Through Integrative Medicine Based on Scalp Acupuncture",
+      "authors": [
+        "송시영",
+        "장에스더",
+        "노준용",
+        "조수민",
+        "김은서",
+        "김근정",
+        "김경옥",
+        "설재욱",
+        "나창수"
+      ],
+      "authors_short": "송시영 외",
+      "journal": "Korean Journal of Acupuncture",
+      "year": 2024,
+      "doi": null,
+      "kci_id": "ART003119178",
+      "pmid": null,
+      "score": 0.8027,
+      "citation_count": 1,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 1
+      },
+      "abstract": "A stroke is a condition where an ischemic injury occurs in the brain tissue due to blockage or rupture of cerebral blood vessels.\nThe damage to the brain nerve cells caused by a stroke is irreversible. Significant recovery is generally observed within the first six months after the onset, but the natural recovery rate decreases after six months. Therefore, intensive rehabilitation therapy is necessary within the first six months of the onset. This case report presents three cases of patients in the sequelae phase of stroke, where treatments based on integrative medicine system between traditional Korean medicine and Western medicine were applied. The treatments included scalp acupuncture from traditional Korean medicine and rehabilitation exercises and electrical therapy from Western medicine. In this case report, we evaluated the Manual Muscle Test (MMT), Modified Barthel Index (MBI), and the patients' subjective symptom interviews before and after the implementation of the integrative treatment. As a result, significant improvements in MMT and MBI were observed in acute stroke cases, whereas the improvement was minimal in cases with chronic progression. However, in all cases, the patients expressed high satisfaction with the treatment during the interviews.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003119178",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "pubmed:34446530",
+      "title": "Would integrated Western and traditional Chinese medicine have more benefits for stroke rehabilitation? A systematic review and meta-analysis.",
+      "authors": [
+        "Zhong Linda Ld",
+        "Zheng Ya",
+        "Lau Alexander Y",
+        "Wong Norman",
+        "Yao Liang",
+        "Wu Xingyao",
+        "Shao Tengteng",
+        "Lu Zhenxing",
+        "Li Huijuan",
+        "Yuen Chun Sum",
+        "Guo Jianwen",
+        "Lo Suzanne",
+        "Chau Janita",
+        "Chan Kam Wa",
+        "Ng Bacon Fung Leung",
+        "Bian Zhaoxiang",
+        "Yu Edwin Chau-Leung"
+      ],
+      "authors_short": "Zhong Linda Ld 외",
+      "journal": "Stroke and vascular neurology",
+      "year": 2022,
+      "doi": "10.1136/svn-2020-000781",
+      "kci_id": null,
+      "pmid": "34446530",
+      "score": 0.7754,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND rehabilitation AND stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "Stroke is a major cause of death or long-term disability worldwide. Many patients with stroke receive integrative therapy consisting of Western medicine (WM) and routine rehabilitation in conjunction with Chinese medicine (CM), such as acupuncture and Chinese herbal medicine. However, there is no available evidence on the effectiveness of the combined use of WM and CM interventions in stroke rehabilitation. The purpose of this meta-analysis is to evaluate the results of all individual studies to assess the combined use of CM and WM in stroke rehabilitation compared with WM only. The Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines were followed. MEDLINE, EMBASE, Cochrane and China National Knowledge Infrastructure (CNKI) were searched. The included outcomes were dependency, motor function, depression and swallowing function. Subgroup analysis was performed, and publication bias was assessed using funnel plots. 58 studies and 6339 patients were included in the meta-analysis. Subgroup analysis revealed that combined therapy comprising both acupuncture and WM had a superior effect on improving dependency and swallowing function compared with standard WM therapy alone. Potential superiority of combined therapy comprising CM and WM in improving depression compared with standard WM therapy was also found. Our results indicate that the combined use of CM and WM could be more efficacious in stroke rehabilitation compared with the use of WM therapy alone. However, most studies were short in duration (2 to 4 weeks) and prone to different types of biases, which prevents making any conclusion regarding the long-term effects and raises concerns regarding true efficacy in context of high likelihood of Hawthorn bias. So, more randomised controlled trials with more rigorous design and longer duration of treatment and follow-up need to be conducted to compare WM alone versus WM and CM combined. CRD42020152050.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/34446530/",
+      "relevant_to": [
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "kci:ART003310943",
+      "title": "Differential Improvement in Memory and Executive Functions: Personalized Exercise versus Acupuncture for Mild Cognitive Impairment in Stroke-prone Individuals",
+      "authors": [
+        "Yaoyao Xing",
+        "Haoran Hu",
+        "Qingping Ma",
+        "Jianjun Yang",
+        "Xin Wang"
+      ],
+      "authors_short": "Yaoyao Xing 외",
+      "journal": "Clinical Psychopharmacology and Neuroscience",
+      "year": 2026,
+      "doi": "10.9758/cpn.25.1321",
+      "kci_id": "ART003310943",
+      "pmid": null,
+      "score": 0.7699,
+      "citation_count": 0,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 2
+      },
+      "abstract": "Objective: This study compared the effects of personalized exercise versus acupuncture on multidimensional cognitive function in individuals at high risk for stroke with mild cognitive impairment (MCI).\nMethods: A randomized controlled trial enrolled 200 stroke-risk adults aged 50−80 years. Ninety participants diagnosed with MCI (MMSE, HIS, CDR criteria) were randomly assigned to exercise (n = 30), acupuncture (n = 30), or control (n = 30) groups. Interventions lasted 6 months. Cognitive outcomes (MMSE, Raven’s Progressive Matrices, Digit Symbol Substitution Test, Animal Fluency, Rey-Osterrieth test, Stroop test) were assessed before and after intervention. Multivariate regression identified risk factors for MCI. ANOVA was used for group comparisons.\nResults: Hypertension (aOR = 1.5) and diabetes (aOR = 1.3) were significant risk factors for MCI. After intervention, the exercise group showed the largest MMSE improvement ( = 5.0), compared with acupuncture ( = 3.0) and control ( = 1.0) (p ＜ 0.001). Exercise produced greater gains in non-verbal reasoning (31.8% vs. 26.1% in acupuncture, p ＜ 0.01). Acupuncture more effectively enhanced processing speed and attention (DSST:  = 26 vs.  = 20 in exercise, p = 0.03) and executive function (Stroop interference time:  = 16 vs.  = 15 seconds in exercise, p = 0.04). Both interventions significantly improved verbal fluency (p ＜ 0.001), with larger benefits in those with baseline MMSE ≤ 20.\nConclusion: Hypertension and diabetes are key risk factors for MCI in stroke-prone individuals. Exercise yields greater improvement in global cognition and memory, whereas acupuncture is more effective for enhancing attention and exec utive function. Both modalities benefit verbal fluency, particularly in lower-functioning participants.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003310943",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART001981653",
+      "title": "뇌졸중후 경직에 대한 침치료 임상진료지침",
+      "authors": [
+        "김제신",
+        "이의주",
+        "신병철",
+        "이명수",
+        "임성민",
+        "남동우",
+        "문상관",
+        "신승원"
+      ],
+      "authors_short": "김제신 외",
+      "journal": "대한한의학회지",
+      "year": 2015,
+      "doi": null,
+      "kci_id": "ART001981653",
+      "pmid": null,
+      "score": 0.7589,
+      "citation_count": 4,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 1
+      },
+      "abstract": "Objectives: This study is aimed to develop a Clinical Practice Guideline (CPG) on acupuncture treatment for the patients with post-stroke spasticity.\nMethods: Experts committee, consisting of stroke or methodology specialists, searched Medline, EMBASE, Cochrane Library, China National Knowledge Infrastructure, and 19 Korean medicine journals. The search terms were selected to screen the randomized controlled trials (RCTs) or systematic reviews for the effectiveness of acupuncture on post-stroke spasticity, compared with placebo or conventional group. Levels of evidence and grades of recommendations were appraised based on Recommendations for Development of Clinical Practice Guideline in Korean Medicine.\nResults & Conclusions: One systematic review and 7 RCT were included to build the CPG. There was a strong evidence to support the effectiveness of electroacupuncture treatment for post-stroke spasticity. However, it did not show any sufficient evidence to treat the patients with post-stroke spasticity with the sole acupuncture. The moderate evidence was presented that over 3 times of the electroacupuncture treatments with 1-100 Hz frequency should be performed every week on the acupoints, such as LI11, LI10, TE5, LI4, ST36, GB34, ST40, or LR3, for 20-30 minutes. It was also suggested that the procedure should begin at the acute stage just after the vital signs of the patients are stabilized. Finally, there was a moderate evidence to support safety of acupuncture treatment for post-stroke spasticity.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001981653",
+      "relevant_to": [
+        "Acupuncture post-stroke complications",
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "kci:ART002099728",
+      "title": "뇌졸중후 요저류에 대한 침치료 임상진료지침",
+      "authors": [
+        "이지원",
+        "이의주",
+        "신병철",
+        "이명수",
+        "임성민",
+        "조충식",
+        "문상관"
+      ],
+      "authors_short": "이지원 외",
+      "journal": "대한한의학회지",
+      "year": 2016,
+      "doi": null,
+      "kci_id": "ART002099728",
+      "pmid": null,
+      "score": 0.7588,
+      "citation_count": 6,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 2
+      },
+      "abstract": "Objectives: Objectives : This study is aimed to develop a Clinical Practice Guideline (CPG) on acupuncture treatment for the patients with Post-stroke Urinary Retention; PSUR.\nMethods: Experts committee, consisting of stroke or methodology specialists, searched Medline, EMBASE, Cochrane Library, China National Knowledge Infrastructure, and 19 Korean medicine journals. The search terms were selected to screen the randomized controlled trials (RCTs) or systematic reviews for the effectiveness of acupuncture on PSUR compared with placebo or conventional group. Levels of evidence and grades of recommendations were appraised based on Recommendations for Development of Clinical Practice Guideline in Korean Medicine.\nResults & Conclusions: 4 RCT were included to build the CPG. There was a strong evidence to support the effectiveness of acupuncture treatment for PSUR. The moderate evidence was presented that over 3 times a week of the acupuncture should be performed over 4 weeks on the acupoints, such as SP6, CV3, CV6, CV4, SP9, BL28, BL23, BL22, KI3 or BL67, for 15-30 minutes. 20-140Hz frequency and 10-20 minutes of treatment is suggested if electro-acupuncture treatment is performed with. It was also suggested that the procedure should begin at the acute stage just after the vital signs of the patients are stabilized. Finally, there was a moderate evidence to support safety of acupuncture treatment for PSUR.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002099728",
+      "relevant_to": [
+        "Acupuncture post-stroke complications",
+        "Acupuncture rehabilitation stroke"
+      ]
+    },
+    {
+      "uid": "kci:ART003146726",
+      "title": "Acupuncture for acute ischemic stroke: A systematic review and meta-analysis of randomized controlled trials",
+      "authors": [
+        "Shanshan Huang",
+        "Yuting Wang",
+        "Yifan Wu",
+        "Puchen Huang",
+        "Yu Dong",
+        "Qiao Zhang",
+        "Mengjiao Zhao",
+        "Jingchun Zeng",
+        "Liming Lu",
+        "Xinxia Liu"
+      ],
+      "authors_short": "Shanshan Huang 외",
+      "journal": "Integrative Medicine Research",
+      "year": 2024,
+      "doi": "10.1016/j.imr.2024.101092",
+      "kci_id": "ART003146726",
+      "pmid": null,
+      "score": 0.7525,
+      "citation_count": 7,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 8
+      },
+      "abstract": "Background: Stroke is the main cause of death and disability worldwide. There are divergent views regarding the effects of acupuncture in managing acute ischemic stroke (AIS). The purpose of this study was to assess the safety and effectiveness of acupuncture for acute ischemic stroke.\n\n\nMethods: We conducted a comprehensive search across the PubMed, Cochrane Library, Embase, Web of Science, China National Knowledge Infrastructure (CNKI), China Science and Technology Journal Database (VIP), Wanfang, and SinoMed databases from their inception until October 3, 2023. Two reviewers screened eligible randomized controlled trials (RCTs) according to criteria and extracted data using a pre-established form. Cochrane tool was used for risk of bias assessment, and Revman 5.3 was used for subsequent meta-analysis. The GRADE tool will be used to assess the quality of evidence.\n\n\nResults: Thirty-one RCTs were included, involving 3604 patients. Meta-analysis showed that compared with conventional treatments (CTs), acupuncture combined with CTs could improve in National Institutes of Health Stroke Scale (NIHSS) and Efficiency (MD:1.70, 95 %CI [-2.27, -1.14], P < 0.00001;RR: 1.21, 95 %CI [1.12, 1.31], P < 0.00001,);On the Chinese Stroke Scale (CSS) and effectiveness based on CSS, acupuncture showed positive effects (MD:4.33, 95 %CI [-5.67, -2.98], P < 0.00001; RR: 1.26, 95 %CI [1.13, 1.41], P < 0.0001). Furthermore, ADL, Fugl-Meyer Assessment Scale (FMA), prognosis analyses also showed the effectiveness of acupuncture. (SMD: 0.98, 95 % CI [0.64, 1.31], P < 0.00001; MD: 16.46, 95 %CI [12.56, 20.35], P < 0.00001; RR: 0.38, 95 %CI [0.16, 0.89], P = 0.03). However, the certainty of evidence was low.\n\n\nConclusion: According to current evidence, Acupuncture may be effective and safe for AIS. The future still needs high-quality evidence to support this conclusion.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003146726",
+      "relevant_to": [
+        "Acupuncture stroke recovery",
+        "Acupuncture efficacy complications"
+      ]
+    },
+    {
+      "uid": "pubmed:37143014",
+      "title": "Acupuncture for post-stroke depression: a systematic review and network meta-analysis.",
+      "authors": [
+        "Lam Ching Wai",
+        "Li Hui Juan",
+        "Guo Jianwen",
+        "Yao Liang",
+        "Chau Janita",
+        "Lo Suzanne",
+        "Yuen Chun Sum",
+        "Ng Bacon Fung Leung",
+        "Chau-Leung Yu Edwin",
+        "Bian Zhaoxiang",
+        "Lau Alexander Y",
+        "Zhong Linda Ld"
+      ],
+      "authors_short": "Lam Ching Wai 외",
+      "journal": "BMC psychiatry",
+      "year": 2023,
+      "doi": "10.1186/s12888-023-04749-1",
+      "kci_id": null,
+      "pmid": "37143014",
+      "score": 0.7448,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 1
+      },
+      "abstract": "Patients with post-stroke depression (PSD) usually experience anxiety, hopelessness, and insomnia, which have a negative impact on their daily activities and post-stroke rehabilitation. Acupuncture (AC), as a minimally invasive technique, has become a popular choice for improving depression symptoms. However, it is still unclear which therapy is associated with the best outcomes for PSD. In this review, we aimed to explore the impact of AC in alleviating symptoms of PSD and to evaluate the difference in effectiveness between AC combined with pharmacotherapies and various non-pharmacotherapies. Six databases and three clinical trials registration platforms were searched from inception to March 2023. Randomized clinical trial comparing needle-based AC with pharmacotherapy, and other non-pharmacotherapy or invalid group were included. Two independent reviewers identified eligible studies, and collected data using a pre-made form. A Bayesian network meta-analysis was conducted to assess and compare different techniques using RStudio 3.6.0 with the package 'GEMTC' V.0.8.1. The primary outcome was the efficacy for PSD assessed by scales measuring depressive symptoms. The secondary outcomes were effectiveness for neurological function and the quality of life. The ranking probabilities for all treatment interventions was performed using the Surface Under the Cumulative Ranking curve (SUCRA). The risk of bias was assessed by using the Revised Cochrane Risk of Bias tool 2. Sixty-two studies, involving 5308 participants published from 2003 to 2022, were included. The results showed that compared with western medicine (WM) (defined as pharmacotherapy for PSD), AC alone or with repetitive transcranial magnetic stimulation (RTMS), Traditional Chinese medicine (TCM) alone or with WM, were superior for alleviating depression symptoms. Compared to Usual Care, AC alone or plus other therapies could significantly decrease scores on the Hamilton Depression Rating scale. According to result of SUCRA, AC plus RTMS had the highest probability of improving depressive symptoms with a probability of 49.43%. The results of this study indicate that AC alone or combined with other therapies appears to be effective in improving depression symptoms of stroke survivors. Moreover, in comparison to WM, AC alone or plus RTMS, TCM, TCM with WM, or WM, were more effective in improving depression symptoms of PSD. Also, AC with RTMS seems to be the most effective with the highest probability. This study was registered in the International Prospective Register of Systematic Reviews (PROSPERO) database in November 2020 and updated in July 2021. The registration number is CRD42020218752.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/37143014/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "pubmed:39069104",
+      "title": "Acupuncture, an effective treatment for post-stroke neurologic dysfunction.",
+      "authors": [
+        "Zhang You",
+        "Tang Yi-Wen",
+        "Peng Yu-Ting",
+        "Yan Zi",
+        "Zhou Jin",
+        "Yue Zeng-Hui"
+      ],
+      "authors_short": "Zhang You 외",
+      "journal": "Brain research bulletin",
+      "year": 2024,
+      "doi": "10.1016/j.brainresbull.2024.111035",
+      "kci_id": null,
+      "pmid": "39069104",
+      "score": 0.7368,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 2
+      },
+      "abstract": "Stroke episodes represent a significant subset of cerebrovascular diseases globally, often resulting in diverse neurological impairments such as hemiparesis, spasticity, dysphagia, sensory dysfunction, cognitive impairment, depression, aphasia, and other sequelae. These dysfunctions markedly diminish patients' quality of life and impose substantial burdens on their families and society. Consequently, the restoration of neurological function post-stroke remains a primary objective of clinical treatment. Acupuncture, a traditional Chinese medicine technique, is endorsed by the World Health Organization (WHO) for stroke treatment due to its distinct advantages in managing cerebrovascular diseases, including ischemic stroke. Numerous clinical studies have substantiated the efficacy of acupuncture in ameliorating neurological dysfunctions following stroke. This review systematically examines the improvements in post-stroke neurological dysfunction attributable to acupuncture treatment and elucidates potential mechanisms of action proposed in recent years. Additionally, this article aims to present novel therapeutic concepts and strategies for the clinical management of post-stroke neurological dysfunction.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/39069104/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART001396834",
+      "title": "중풍 후 중추성 통증환자에 대한 봉독약침의 임상효과 －단일맹검 무작위배정 환자 대조군 비교연구－",
+      "authors": [
+        "곽자영",
+        "조승연",
+        "신애숙",
+        "이인환",
+        "김나희",
+        "김혜미",
+        "나병조",
+        "박성욱",
+        "정우상",
+        "문상관",
+        "박정미",
+        "고창남",
+        "조기호",
+        "김영석",
+        "배형섭"
+      ],
+      "authors_short": "곽자영 외",
+      "journal": "Journal of Acupuncture Research",
+      "year": 2009,
+      "doi": null,
+      "kci_id": "ART001396834",
+      "pmid": null,
+      "score": 0.7188,
+      "citation_count": 11,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture post stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 4
+      },
+      "abstract": "Objectives : This study was designed to evaluate objectively the efficacy of bee-venom acupuncture on Central post-stroke patients.\nMethods : After screening, 25 patients recruited with eligible criteria. Among them 1 dropped out in treatment group, 4 in control group. We applied bee-venom acupuncture 6 points of body(LI15, GB21, LI11, GB31, ST36, GB39) 2 times a week for 3 weeks for treatment group, and normal saline for control group in the same way. After 3 weeks treatment and 2 weeks follow up we measured VAS, categorial rating scale as a pain assessment also MBI, Modified Rankin Scale as a stroke recovery.\nResults : 1. Treatment group showed significant difference in VAS, categorial rating scale after treatment and 2 weeks follow up, compared with baseline. The control group showed significant difference between baseline and after treatment But the 2 weeks follow up, there is no significant difference compared with baseline. Also there’s no significant difference in categorial rating scale. \n2. MBI showed significant difference in treatment group between baseline and after treatment, but the control group did not have any difference. There’s no significant difference in Modified Rankin Scale for treatment group and control group. \n3. There’s no significant difference between control group and treatment group. This is because of the small sample size in the study, Thus it seems to reflect individual difference strongly. \nConclusions : There are positive effect on CPSP patients in pain and stroke recovery treating with bee-venom acupuncture than control group.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001396834",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "kci:ART003088961",
+      "title": "Intraoral Acupuncture for Sialorrhea in Stroke Patients: a Study Protocol for a Randomized Controlled Trial",
+      "authors": [
+        "Wang Jin-Jin",
+        "Shao Meng-Meng",
+        "Zhou Xue-Zhen",
+        "Lin Zu-Chen",
+        "Li Hai-Yan",
+        "Yuan Zheng-Zhong",
+        "Ma Qin-Qin",
+        "Li Fang",
+        "Fu Wen-Bin"
+      ],
+      "authors_short": "Wang Jin-Jin 외",
+      "journal": "Innovations in Acupuncture and Medicine",
+      "year": 2024,
+      "doi": "10.51507/j.jams.2024.17.3.100",
+      "kci_id": "ART003088961",
+      "pmid": null,
+      "score": 0.7157,
+      "citation_count": 0,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture stroke",
+      "sources": [
+        "kci"
+      ],
+      "source_ranks": {
+        "kci": 3
+      },
+      "abstract": "Importance: Post-stroke sialorrhea (PSS) refers to excessive saliva flowing out the lip border after a stroke. PSS negatively affects patient self-image and social communication and may lead to depression. Limited evidence supports the link between excessive salivation and PSS. No large-scale, strictly controlled randomized controlled trials have shown the effectiveness of acupuncture in treating PSS patients.\nObjective: We aim to compare the effects of intraoral and sham acupuncture in PSS patients and explore relationships among salivation and drooling severity and frequency and swallowing function in stroke patients.\nDesign: Clinical study protocol, SPIRIT compliant.\nSetting: Prospective, single-center, randomized, and sham-controlled trial.\nPopulation: We will recruit 106 PSS patients to receive 4-week intraoral or sham acupuncture. Additionally, 53 stroke patients without PSS will undergo a conventional 4-week treatment program to compare salivation between PSS and non-PSS patients.\nExposures: Intraoral or sham acupuncture.\nMain Outcomes and Measures: The main evaluation index will be the 3-minute saliva weight (3MSW), comparing changes in 3MSW from baseline to weeks 4 and 8.\nSecondary assessment indices will include the “Drooling Severity and Frequency Scale” and “Functional Oral Intake Scale.” Results: The results from this study will be published in peer-reviewed journals.\nConclusion: Comparing effects of intraoral and sham acupuncture in PSS patients, this study may contribute important evidence for future PSS treatment and provide valuable insights into whether salivation issues in stroke patients are attributed to heightened salivary secretion or dysphagia.",
+      "fulltext_url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003088961",
+      "relevant_to": [
+        "Acupuncture post-stroke complications"
+      ]
+    },
+    {
+      "uid": "pubmed:38942201",
+      "title": "Effectiveness and safety of Governor vessel acupuncture therapy for post-stroke cognitive impairment: A meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Han Ji-Ze",
+        "Yang Yang",
+        "Wang Yi-Fan",
+        "Feng Jia-Hao",
+        "Song Cheng-Ning",
+        "Wu Wei-Jie",
+        "Lin Hai-Bo"
+      ],
+      "authors_short": "Han Ji-Ze 외",
+      "journal": "Ageing research reviews",
+      "year": 2024,
+      "doi": "10.1016/j.arr.2024.102355",
+      "kci_id": null,
+      "pmid": "38942201",
+      "score": 0.3585,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND post-stroke AND complications",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 5
+      },
+      "abstract": "The purpose of this study was to evaluate the effectiveness of Governor vessel acupuncture (GV Ac) in treating post-stroke cognitive impairment (PSCI). There was a total of seven databases examined. Four English databases (Cochrane Library, PubMed, Embase, and Medline) and three Chinese databases (Chinese National Knowledge Infrastructure (CNKI), Chinese Science and Technology Periodical Databases (VIP), and Wan Fang Database) contain all randomized controlled trials (RCTs) comparing Governor vessel acupuncture to other treatments or none acupuncture for PSCI. The exact dates for the search period are from January 1, 2000, to January 1, 2023.Two researchers independently reviewed the literature, gathered RCT data, and performed statistical analysis. All data were analyzed using Review Manager software (Rev Man) 5.3. This meta-analysis includes a total of 39 trials with 2044 patients. There were 1022 participants in each of the test and control groups. Following 12-120 days of acupuncture treatment, a meta-analysis revealed that the treatment groups (GV Ac combined with conventional treatment groups) significantly increased their scores on the Curative ratio (OR = 3.00, 95 %CI = 2.37-3.79, P = 0.98, I² = 0 %), Montreal Cognitive Assessment (MoCA)(MD = 1.82, 95 %CI = 1.60-2.03, P = 0.11, I² = 25 %), Mini-Mental State Examination (MMSE)(MD = 2.18, 95 %CI = 1.64-2.72, P<0.005, I² = 92 %), and Activity of Daily Living (ADL)(MD = 5.99, 95 %CI = 5.33-6.64, P = 0.19, I² = 26 %). The results suggested that acupuncture on points of the Governor vessel enhanced cognitive function in stroke survivors.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/38942201/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "pubmed:38336368",
+      "title": "Bilateral effect of acupuncture on cerebrum and cerebellum in ischaemic stroke patients with hemiparesis: a randomised clinical and neuroimaging trial.",
+      "authors": [
+        "Chen Tianzhu",
+        "Chen Tianyan",
+        "Zhang Yong",
+        "Wu Kang",
+        "Zou Yihuai"
+      ],
+      "authors_short": "Chen Tianzhu 외",
+      "journal": "Stroke and vascular neurology",
+      "year": 2024,
+      "doi": "10.1136/svn-2023-002785",
+      "kci_id": null,
+      "pmid": "38336368",
+      "score": 0.3585,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND stroke AND recovery",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 5
+      },
+      "abstract": "Acupuncture involving the limb region may be effective for stroke rehabilitation clinically, but the visualised and explanatory evidence is limited. Our objectives were to assess the specific effects of acupuncture for ischaemic stroke (IS) patients with hemiparesis and investigate its therapy-driven modification in functional connectivity. IS patients were randomly assigned (2:1) to receive 10 sessions of hand-foot 12 needles acupuncture (HA, n=30) or non-acupoint (NA) acupuncture (n=16), enrolling gender-matched and age-matched healthy controls (HCs, n=34). The clinical outcomes were the improved Fugl-Meyer Assessment scores including upper and lower extremity (ΔFM, ΔFM-UE, ΔFM-LE). The neuroimaging outcome was voxel-mirrored homotopic connectivity (VMHC). Static and dynamic functional connectivity (sFC, DFC) analyses were used to study the neuroplasticity reorganisation. 46 ISs (mean(SD) age, 59.37 (11.36) years) and 34 HCs (mean(SD) age, 52.88 (9.69) years) were included in the per-protocol analysis of clinical and neuroimaging. In clinical, ΔFM scores were 5.00 in HA group and 2.50 in NA group, with a dual correlation between ΔFM and ΔVMHC (angular: r=0.696, p=0.000; cerebellum: r=-0.716, p=0.000) fitting the linear regression model (R=0.828). In neuroimaging, ISs demonstrated decreased VMHC in bilateral postcentral gyrus and cerebellum (Gaussian random field, GRF corrected, voxel p<0.001, cluster p<0.05), which fitted the logistic regression model (AUC=0.8413, accuracy=0.7500). Following acupuncture, VMHC in bilateral superior frontal gyrus orbital part was increased with cerebro-cerebellar changes, involving higher sFC between ipsilesional superior frontal gyrus orbital part and the contralesional orbitofrontal cortex as well as cerebellum (GRF corrected, voxel p<0.001, cluster p<0.05). The coefficient of variation of VMHC was decreased in bilateral posterior cingulate gyrus (PPC) locally (GRF corrected, voxel p<0.001, cluster p<0.05), with integration states transforming into segregation states overall (p<0.05). There was no acupuncture-related adverse event. The randomised clinical and neuroimaging trial demonstrated acupuncture could promote the motor recovery and modified cerebro-cerebellar VMHC via bilateral static and dynamic reorganisations for IS patients with hemiparesis.",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/38336368/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    },
+    {
+      "uid": "pubmed:33371155",
+      "title": "Effect of acupuncture treatment on post-stroke cognitive impairment: A randomized controlled trial.",
+      "authors": [
+        "Du Yuzheng",
+        "Zhang Lili",
+        "Liu Wei",
+        "Rao Chang",
+        "Li Boxuan",
+        "Nan Xi",
+        "Li Zefang",
+        "Jiang Hailun"
+      ],
+      "authors_short": "Du Yuzheng 외",
+      "journal": "Medicine",
+      "year": 2020,
+      "doi": "10.1097/MD.0000000000023803",
+      "kci_id": null,
+      "pmid": "33371155",
+      "score": 0.3125,
+      "citation_count": null,
+      "influential_citation_count": null,
+      "study_type": null,
+      "is_retracted": null,
+      "is_open_access": null,
+      "tldr": null,
+      "matched_query": "Acupuncture AND rehabilitation AND stroke",
+      "sources": [
+        "pubmed"
+      ],
+      "source_ranks": {
+        "pubmed": 5
+      },
+      "abstract": "Post-stroke cognitive impairment (PSCI), which has a high morbidity, is closely associated with the recurrence and rehabilitation of ischemic stroke. There are 2 different stages of PSCI, including post-stroke cognitive impairment with no dementia (PSCIND) and post-stroke dementia (PSD). The latter has a significantly higher mortality rate than the previous one. Therefore, preventing the onset of PSD is of vital importance. However, there is no unequivocally effective prevention or treatment for PSCI, except intensive secondary prevention of stroke. The primary aim of this protocol is to explore whether acupuncture can improve cognitive function of patients with PSCIND and reduce the chances of developing PSD. On this bias, we also want to explore its possible mechanisms. A prospective, multicenter, large sample, randomized controlled trial will be conducted. A total of 360 eligible patients will be recruited from 5 different hospitals and randomly allocated into the acupuncture group (AG), sham acupuncture group (NAG), and waiting-list group (WLG) in a 1:1:1 ratio. The intervention period of NAG and AG will last 3 months (30 minutes per day, 3 times per week). Primary and secondary outcomes will be measured at baseline, 12 weeks (at the end of the intervention), 24 weeks (after the 12-week follow-up period), and 36 weeks (after the 24-week follow-up period). Resting-state and task-state functional MRI will be conducted at baseline and 12 weeks. The ethic committee of First Teaching Hospital of University of Traditional Chinese Medicine approved the study. Study results will be first informed to each participant and later disseminated to researchers, and the general public through courses, presentations and the internet, regardless of the magnitude or direction of effect. The results will also be documented in a published peer-reviewed academic journal. We have registered at ClinicalTrials.gov(ChiCTR2000033801).",
+      "fulltext_url": "https://pubmed.ncbi.nlm.nih.gov/33371155/",
+      "relevant_to": [
+        "Acupuncture stroke recovery"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4064,
+    "output_tokens": 590,
+    "total_tokens": 4654
+  }
+}

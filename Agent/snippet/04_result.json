@@ -1,0 +1,226 @@
+{
+  "pool_size": 16,
+  "ingested": 16,
+  "answers": {
+    "Acupuncture post-stroke complications": {
+      "answer": "Question: Acupuncture post-stroke complications\n\nAcupuncture is an effective treatment for various post-stroke complications, including neurological dysfunctions such as hemiparesis, spasticity, dysphagia, sensory dysfunction, cognitive impairment, depression, and aphasia. It is endorsed by the World Health Organization (WHO) for stroke rehabilitation, particularly ischemic stroke, due to its benefits in managing cerebrovascular diseases and improving neurological functions (pubmed:39069104 chunk 1, pubmed:29143805 chunk 1).\n\nFor post-stroke spasticity, electroacupuncture has strong evidence supporting its efficacy. Recommended protocols include treatments 3 or more times weekly, using frequencies of 1-100 Hz on acupoints such as LI11, LI10, and TE5 for 20-30 minutes, initiated in the acute stage after stabilization of vital signs (kci:ART001981653 chunk 1). Similarly, acupuncture is effective for post-stroke urinary retention (PSUR), with strong evidence supporting its use on acupoints such as SP6, CV3, and BL28, performed 3 times weekly for 4 weeks. Electroacupuncture with 20-140 Hz for 10-20 minutes is also recommended (kci:ART002099728 chunk 1).\n\nAbdominal acupuncture combined with routine rehabilitation training significantly improves post-stroke shoulder-hand syndrome (SHS), reducing pain, swelling, and enhancing daily activities without adverse effects (kci:ART002848389 chunk 1). Mechanistically, acupuncture promotes neurogenesis, regulates cerebral blood flow, prevents apoptosis, and modulates neurochemicals, contributing to its therapeutic effects in ischemic stroke rehabilitation (pubmed:29143805 chunk 1).\n\nReferences\n\n1. (pubmed:39069104 chunk 1): Zhang You, Tang Yi-Wen, Peng Yu-Ting (2024). Acupuncture, an effective treatment for post-stroke neurologic dysfunction.. Brain research bulletin\n\n2. (pubmed:29143805 chunk 1): Chavez Lina M, Huang Shiang-Suo, MacDonald Iona (2017). Mechanisms of Acupuncture Therapy in Ischemic Stroke Rehabilitation: A Literature Review of Basic Studies.. International journal of molecular sciences\n\n3. (kci:ART001981653 chunk 1): 김제신, 이의주, 신병철 (2015). 뇌졸중후 경직에 대한 침치료 임상진료지침. 대한한의학회지\n\n4. (kci:ART002099728 chunk 1): 이지원, 이의주, 신병철 (2016). 뇌졸중후 요저류에 대한 침치료 임상진료지침. 대한한의학회지\n\n5. (kci:ART002848389 chunk 1): Zhan Jie, Ai Yirang, Zhan Lechang (2022). Effect of abdominal acupuncture combined with routine rehabilitation training on shoulder-hand syndrome after stroke: A randomized controlled trial. Integrative Medicine Research",
+      "evidence": [
+        {
+          "uid": "kci:ART003146726",
+          "quote": "The study systematically reviewed and analyzed randomized controlled trials to assess the safety and effectiveness of acupuncture for acute ischemic stroke (AIS). Results showed that acupuncture combined with conventional treatments improved outcomes on various scales, including the NIHSS, CSS, ADL, and Fugl-Meyer Assessment Scale, indicating positive effects on stroke recovery. However, the certainty of evidence was low, and further high-quality research is needed to confirm these findings. The study does not specifically address post-stroke complications but focuses on the overall effectiveness and safety of acupuncture in AIS management.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:38336368",
+          "quote": "The study investigates the effects of acupuncture on ischemic stroke (IS) patients with hemiparesis, focusing on motor recovery and neuroplasticity. Patients receiving hand-foot 12 needles acupuncture (HA) showed improved motor function (ΔFM scores) compared to non-acupoint acupuncture (NA). Neuroimaging revealed that acupuncture promoted cerebro-cerebellar functional connectivity changes, including increased voxel-mirrored homotopic connectivity (VMHC) in specific brain regions and dynamic reorganization of functional connectivity. No acupuncture-related adverse events were reported, suggesting its safety and potential efficacy in post-stroke rehabilitation.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART002099728",
+          "quote": "The study focuses on developing a Clinical Practice Guideline (CPG) for acupuncture treatment in patients with Post-stroke Urinary Retention (PSUR). It includes evidence from randomized controlled trials (RCTs) and systematic reviews, showing strong evidence for the effectiveness of acupuncture in treating PSUR. Recommendations include performing acupuncture over 3 times a week for 4 weeks on specific acupoints (e.g., SP6, CV3, BL28) for 15-30 minutes. Electro-acupuncture with 20-140Hz frequency for 10-20 minutes is also suggested. Treatment should begin in the acute stage after stabilization of vital signs. Moderate evidence supports the safety of acupuncture for PSUR.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:29143805",
+          "quote": "Acupuncture is recommended by the WHO as a complementary strategy for stroke treatment and rehabilitation. It has been shown to improve balance, reduce spasticity, increase muscle strength, and enhance general well-being in post-stroke patients. The mechanisms through which acupuncture benefits ischemic stroke rehabilitation include promoting neurogenesis and cell proliferation in the CNS, regulating cerebral blood flow in the ischemic area, preventing apoptosis, modulating neurochemicals, and improving impaired long-term potentiation (LTP) and memory. Frequently used acupoints in studies include Baihui (GV20), Zusanli (ST36), Quchi (LI11), Shuigou (GV26), Dazhui (GV14), and Hegu (LI4).",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:33371155",
+          "quote": "The study investigates the effect of acupuncture on post-stroke cognitive impairment (PSCI), focusing on its potential to improve cognitive function in patients with PSCI without dementia (PSCIND) and reduce the risk of developing post-stroke dementia (PSD). A randomized controlled trial involving 360 patients will compare acupuncture, sham acupuncture, and a waiting-list group over a 3-month intervention period. Outcomes will be measured at multiple intervals, and functional MRI will be used to explore mechanisms. The study aims to provide evidence on acupuncture's efficacy in addressing cognitive complications post-stroke.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART002848389",
+          "quote": "The study investigates the effect of abdominal acupuncture (BAA) combined with routine rehabilitation training (RT) on post-stroke shoulder-hand syndrome (SHS), a common complication after stroke. Fifty patients were divided into two groups: one receiving only RT and the other receiving RT combined with BAA. Results showed that the combined treatment significantly improved shoulder pain (VAS score reduction), swelling, and activities of daily living (ADL) compared to RT alone. No adverse events related to BAA were reported, suggesting its safety and effectiveness in managing SHS post-stroke.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART001981653",
+          "quote": "The study aimed to develop a Clinical Practice Guideline (CPG) for acupuncture treatment in patients with post-stroke spasticity. It found strong evidence supporting the effectiveness of electroacupuncture for post-stroke spasticity, though insufficient evidence for sole acupuncture. Moderate evidence suggested that electroacupuncture treatments (1-100 Hz frequency) should be performed over 3 times weekly on specific acupoints (e.g., LI11, LI10, TE5) for 20-30 minutes, starting in the acute stage after stabilization of vital signs. The safety of acupuncture for post-stroke spasticity was also moderately supported.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:39069104",
+          "quote": "Acupuncture is recognized as an effective treatment for post-stroke neurological dysfunctions, which include hemiparesis, spasticity, dysphagia, sensory dysfunction, cognitive impairment, depression, and aphasia. These conditions significantly impact patients' quality of life and impose societal burdens. The World Health Organization (WHO) endorses acupuncture for stroke treatment, particularly ischemic stroke, due to its advantages in managing cerebrovascular diseases. Clinical studies have demonstrated its efficacy in improving neurological functions post-stroke. This review explores the mechanisms of action and presents new therapeutic strategies for managing post-stroke complications with acupuncture.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:37143014",
+          "quote": "The study explores the effectiveness of acupuncture (AC) in alleviating post-stroke depression (PSD), a condition often accompanied by anxiety, hopelessness, and insomnia. A systematic review and Bayesian network meta-analysis of 62 studies involving 5308 participants found that AC, alone or combined with therapies like repetitive transcranial magnetic stimulation (RTMS) or Traditional Chinese Medicine (TCM), was more effective than Western medicine (pharmacotherapy) in improving depressive symptoms. AC combined with RTMS showed the highest probability of improving symptoms. The study highlights AC as a promising intervention for PSD, potentially improving neurological function and quality of life.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:38942201",
+          "quote": "The study evaluates the effectiveness and safety of Governor vessel acupuncture (GV Ac) for treating post-stroke cognitive impairment (PSCI). A meta-analysis of 39 randomized controlled trials involving 2044 patients showed that GV Ac combined with conventional treatments significantly improved cognitive function and daily living activities in stroke survivors. Improvements were measured using the Curative ratio, Montreal Cognitive Assessment (MoCA), Mini-Mental State Examination (MMSE), and Activity of Daily Living (ADL) scores. The findings suggest that GV Ac can enhance cognitive function in individuals recovering from strokes.",
+          "source": "paperqa"
+        }
+      ]
+    },
+    "Acupuncture stroke recovery": {
+      "answer": "Question: Acupuncture stroke recovery\n\nAcupuncture has demonstrated significant potential in enhancing stroke recovery through various mechanisms and clinical outcomes. Studies indicate that acupuncture, when combined with conventional treatments (CTs) or rehabilitation strategies, improves motor function, pain reduction, and activities of daily living (ADL) in post-stroke patients. For instance, abdominal acupuncture (BAA) combined with routine rehabilitation training (RT) significantly improved pain, motor function, shoulder range of motion, and swelling in patients with post-stroke shoulder-hand syndrome (SHS), with no reported adverse events, highlighting its safety and efficacy (kci:ART002848389 chunk 1). \n\nSystematic reviews and meta-analyses further support acupuncture's effectiveness in acute ischemic stroke (AIS) recovery, showing improvements in NIHSS, CSS, FMA, and ADL scores, although the certainty of evidence remains low, necessitating further high-quality research (kci:ART003146726 chunk 1). Mechanistically, acupuncture promotes neurogenesis, regulates cerebral blood flow, prevents apoptosis, and enhances neuroplasticity, as evidenced by increased voxel-mirrored homotopic connectivity (VMHC) and cerebro-cerebellar reorganization in ischemic stroke patients with hemiparesis (pubmed:29143805 chunk 1, pubmed:38336368 chunk 1). \n\nAdditionally, acupuncture is recognized by the WHO for its role in managing post-stroke neurological dysfunctions, including spasticity, hemiparesis, and cognitive impairment, further validating its therapeutic value in stroke rehabilitation (pubmed:39069104 chunk 1). These findings collectively underscore acupuncture's multifaceted benefits in stroke recovery.\n\nReferences\n\n1. (kci:ART002848389 chunk 1): Zhan Jie, Ai Yirang, Zhan Lechang (2022). Effect of abdominal acupuncture combined with routine rehabilitation training on shoulder-hand syndrome after stroke: A randomized controlled trial. Integrative Medicine Research\n\n2. (kci:ART003146726 chunk 1): Shanshan Huang, Yuting Wang, Yifan Wu (2024). Acupuncture for acute ischemic stroke: A systematic review and meta-analysis of randomized controlled trials. Integrative Medicine Research\n\n3. (pubmed:29143805 chunk 1): Chavez Lina M, Huang Shiang-Suo, MacDonald Iona (2017). Mechanisms of Acupuncture Therapy in Ischemic Stroke Rehabilitation: A Literature Review of Basic Studies.. International journal of molecular sciences\n\n4. (pubmed:38336368 chunk 1): Chen Tianzhu, Chen Tianyan, Zhang Yong (2024). Bilateral effect of acupuncture on cerebrum and cerebellum in ischaemic stroke patients with hemiparesis: a randomised clinical and neuroimaging trial.. Stroke and vascular neurology\n\n5. (pubmed:39069104 chunk 1): Zhang You, Tang Yi-Wen, Peng Yu-Ting (2024). Acupuncture, an effective treatment for post-stroke neurologic dysfunction.. Brain research bulletin",
+      "evidence": [
+        {
+          "uid": "pubmed:33371155",
+          "quote": "The study investigates the effect of acupuncture on post-stroke cognitive impairment (PSCI), focusing on whether it can improve cognitive function in patients with PSCI without dementia (PSCIND) and reduce the risk of developing post-stroke dementia (PSD). A randomized controlled trial involving 360 patients across five hospitals will compare acupuncture, sham acupuncture, and a waiting-list group over a 3-month intervention period. Outcomes will be measured at multiple intervals, and functional MRI will be used to explore mechanisms. The study aims to provide evidence on acupuncture's potential role in stroke recovery and cognitive improvement.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART002099728",
+          "quote": "The study focuses on developing a Clinical Practice Guideline (CPG) for acupuncture treatment in patients with Post-stroke Urinary Retention (PSUR). It found strong evidence supporting the effectiveness of acupuncture for PSUR and moderate evidence for specific treatment protocols. These include performing acupuncture more than three times a week for four weeks on specific acupoints (e.g., SP6, CV3, CV6, etc.) for 15-30 minutes. Electro-acupuncture with 20-140Hz frequency for 10-20 minutes is also suggested. The treatment should begin in the acute stage after stabilization of vital signs. The study also supports the safety of acupuncture for PSUR.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART003119178",
+          "quote": "The case report discusses the use of integrative medicine, combining traditional Korean medicine (scalp acupuncture) and Western medicine (rehabilitation exercises and electrical therapy), for stroke recovery. It highlights that significant recovery is typically observed within the first six months post-stroke, with reduced natural recovery rates afterward. The study evaluated three stroke patients using the Manual Muscle Test (MMT), Modified Barthel Index (MBI), and subjective symptom interviews. Results showed significant improvements in acute stroke cases, while chronic cases showed minimal improvement. However, all patients reported high satisfaction with the treatment.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART002848389",
+          "quote": "The study investigates the effect of abdominal acupuncture (BAA) combined with routine rehabilitation training (RT) on post-stroke shoulder-hand syndrome (SHS). Fifty patients were divided into two groups: one receiving only RT and the other receiving both RT and BAA. Results showed that the group receiving BAA and RT experienced significantly greater improvements in pain reduction (VAS score), motor function, shoulder range of motion, activities of daily living (ADL), and swelling reduction compared to the RT-only group. No adverse events related to BAA were reported, suggesting its safety and effectiveness in enhancing stroke recovery outcomes for SHS patients.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:39069104",
+          "quote": "The article discusses the effectiveness of acupuncture as a treatment for post-stroke neurological dysfunctions, which include hemiparesis, spasticity, dysphagia, sensory dysfunction, cognitive impairment, depression, and aphasia. Acupuncture is recognized by the WHO for its benefits in managing cerebrovascular diseases like ischemic stroke. Clinical studies have demonstrated its efficacy in improving neurological functions after a stroke. The review also explores potential mechanisms of action and introduces new therapeutic strategies for managing post-stroke neurological dysfunctions.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:38336368",
+          "quote": "The study investigates the effects of acupuncture on stroke recovery in ischemic stroke (IS) patients with hemiparesis. Patients were randomized to receive either hand-foot 12 needles acupuncture (HA) or non-acupoint acupuncture (NA). Clinical outcomes showed improved motor recovery in the HA group, with higher Fugl-Meyer Assessment scores compared to the NA group. Neuroimaging revealed that acupuncture promoted changes in functional connectivity, including increased voxel-mirrored homotopic connectivity (VMHC) in specific brain regions and cerebro-cerebellar reorganization. These findings suggest that acupuncture can enhance motor recovery and neuroplasticity in IS patients without adverse events.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART001981653",
+          "quote": "The study aimed to develop a Clinical Practice Guideline (CPG) for acupuncture treatment in post-stroke spasticity. It found strong evidence supporting the effectiveness of electroacupuncture for post-stroke spasticity, though insufficient evidence for sole acupuncture. Moderate evidence suggested that electroacupuncture treatments (1-100 Hz frequency) should be performed over 3 times weekly on specific acupoints (e.g., LI11, LI10, TE5) for 20-30 minutes, starting in the acute stage after stabilization of vital signs. The safety of acupuncture for post-stroke spasticity was also moderately supported.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART003146726",
+          "quote": "The study systematically reviewed and analyzed 31 randomized controlled trials involving 3604 patients to assess the safety and effectiveness of acupuncture for acute ischemic stroke (AIS). Results showed that acupuncture combined with conventional treatments (CTs) improved outcomes on the National Institutes of Health Stroke Scale (NIHSS), Chinese Stroke Scale (CSS), and other measures like the Fugl-Meyer Assessment Scale (FMA) and Activities of Daily Living (ADL). While the meta-analysis indicated positive effects, the certainty of evidence was low, and further high-quality research is needed to confirm these findings.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:37143014",
+          "quote": "The study systematically reviews and analyzes the effectiveness of acupuncture (AC) in treating post-stroke depression (PSD), which negatively impacts stroke recovery. It compares AC alone, AC combined with repetitive transcranial magnetic stimulation (RTMS), Traditional Chinese Medicine (TCM), and pharmacotherapy. Results indicate that AC, particularly when combined with RTMS, is effective in alleviating depressive symptoms and improving neurological function and quality of life in stroke survivors. AC with RTMS had the highest probability (49.43%) of improving depressive symptoms. The findings suggest that AC can be a beneficial therapy for enhancing stroke recovery by addressing PSD.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:29143805",
+          "quote": "Acupuncture is recommended by the WHO as a complementary strategy for stroke treatment and rehabilitation. Clinical trials and meta-analyses have shown its efficacy in improving balance, reducing spasticity, increasing muscle strength, and enhancing general well-being post-stroke. The mechanisms through which acupuncture benefits ischemic stroke rehabilitation include promoting neurogenesis and cell proliferation in the CNS, regulating cerebral blood flow in the ischemic area, preventing apoptosis, modulating neurochemicals, and improving impaired long-term potentiation (LTP) and memory. Commonly used acupoints in studies include Baihui (GV20), Zusanli (ST36), Quchi (LI11), Shuigou (GV26), Dazhui (GV14), and Hegu (LI4).",
+          "source": "paperqa"
+        }
+      ]
+    },
+    "Acupuncture efficacy complications": {
+      "answer": "Question: Acupuncture efficacy complications\n\nAcupuncture efficacy is complicated by several factors, including variability in evidence quality, methodological issues, and challenges in assessing specific mechanisms. For post-stroke spasticity, strong evidence supports electroacupuncture, particularly when applied at specific frequencies and acupoints in the acute stage, but evidence for sole acupuncture remains insufficient (kci:ART001981653 chunk 1). In post-stroke shoulder-hand syndrome, abdominal acupuncture combined with routine rehabilitation training significantly improves outcomes compared to rehabilitation alone, with no reported adverse events, suggesting its safety and efficacy (kci:ART002848389 chunk 1). \n\nHowever, systematic reviews and meta-analyses often face limitations. For acute ischemic stroke, acupuncture combined with conventional treatments shows potential benefits, but the certainty of evidence is low, necessitating higher-quality studies (kci:ART003146726 chunk 1). Cochrane reviews of acupuncture are criticized for outdated methodologies, inadequate reporting on sham acupuncture controls, and insufficient use of STRICTA guidelines, likely underestimating acupuncture's efficacy (kci:ART003246232 chunk 1). \n\nAdditionally, ongoing research into post-stroke cognitive impairment explores acupuncture's potential to improve cognitive function and reduce progression to dementia, but results are pending (pubmed:33371155 chunk 1). These complexities highlight the need for rigorous, standardized methodologies and higher-quality evidence to clarify acupuncture's efficacy across conditions.\n\nReferences\n\n1. (kci:ART001981653 chunk 1): 김제신, 이의주, 신병철 (2015). 뇌졸중후 경직에 대한 침치료 임상진료지침. 대한한의학회지\n\n2. (kci:ART002848389 chunk 1): Zhan Jie, Ai Yirang, Zhan Lechang (2022). Effect of abdominal acupuncture combined with routine rehabilitation training on shoulder-hand syndrome after stroke: A randomized controlled trial. Integrative Medicine Research\n\n3. (kci:ART003146726 chunk 1): Shanshan Huang, Yuting Wang, Yifan Wu (2024). Acupuncture for acute ischemic stroke: A systematic review and meta-analysis of randomized controlled trials. Integrative Medicine Research\n\n4. (kci:ART003246232 chunk 1): Arya Nielsen, L. Susan Wieland (2025). Cochrane reviews of acupuncture are dated, do not account for the specific effects of sham controls and likely underestimate the efficacy of acupuncture therapy. Integrative Medicine Research\n\n5. (pubmed:33371155 chunk 1): Du Yuzheng, Zhang Lili, Liu Wei (2020). Effect of acupuncture treatment on post-stroke cognitive impairment: A randomized controlled trial.. Medicine",
+      "evidence": [
+        {
+          "uid": "kci:ART001981653",
+          "quote": "The study developed a Clinical Practice Guideline (CPG) for acupuncture treatment in post-stroke spasticity. It found strong evidence supporting the effectiveness of electroacupuncture for this condition, but insufficient evidence for using sole acupuncture. Moderate evidence suggested that electroacupuncture treatments (3+ times weekly, 1-100 Hz frequency, 20-30 minutes) on specific acupoints are effective and should begin in the acute stage after patient stabilization. Additionally, moderate evidence supported the safety of acupuncture for post-stroke spasticity.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:39069104",
+          "quote": "The excerpt discusses the efficacy of acupuncture as a treatment for post-stroke neurological dysfunctions, which include conditions like hemiparesis, spasticity, and cognitive impairment. Acupuncture is recognized by the WHO for its benefits in managing cerebrovascular diseases, including ischemic stroke. Clinical studies have supported its effectiveness in improving neurological functions post-stroke. The review also explores potential mechanisms of action and introduces new therapeutic strategies for managing these dysfunctions.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:29143805",
+          "quote": "The excerpt discusses the efficacy of acupuncture in ischemic stroke rehabilitation, highlighting its benefits such as improving balance, reducing spasticity, and enhancing muscle strength and well-being. It identifies five mechanisms underlying these effects: promotion of neurogenesis, regulation of cerebral blood flow, anti-apoptosis, regulation of neurochemicals, and improvement of long-term potentiation and memory. The study also lists commonly used acupoints in research. However, the excerpt does not address complications or adverse effects related to acupuncture efficacy.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:38942201",
+          "quote": "The meta-analysis evaluated the effectiveness and safety of Governor vessel acupuncture (GV Ac) for post-stroke cognitive impairment (PSCI). It included 39 randomized controlled trials with 2044 patients. The results showed that GV Ac combined with conventional treatments significantly improved cognitive function and daily living activities in stroke survivors, as measured by the Curative ratio, Montreal Cognitive Assessment (MoCA), Mini-Mental State Examination (MMSE), and Activity of Daily Living (ADL) scores. However, the excerpt does not mention specific complications or adverse effects related to acupuncture therapy.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:33371155",
+          "quote": "The study investigates the efficacy of acupuncture in improving cognitive function in patients with post-stroke cognitive impairment without dementia (PSCIND) and its potential to reduce the progression to post-stroke dementia (PSD). It is a randomized controlled trial involving 360 patients divided into acupuncture, sham acupuncture, and waiting-list groups. The intervention lasts 3 months, with outcomes measured at multiple intervals. The study also explores mechanisms using functional MRI. Results will be disseminated to participants, researchers, and the public, and published in a peer-reviewed journal.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART003246232",
+          "quote": "The excerpt discusses issues with Cochrane reviews of acupuncture, highlighting that they are outdated and fail to adequately address the specific effects of sham acupuncture controls. Many reviews lack rigorous reporting on sham methods and do not incorporate the controversy of sham acupuncture being an active control into their conclusions. Additionally, the adequacy of acupuncture interventions is rarely assessed, and STRICTA guidelines are infrequently used. These shortcomings suggest that the efficacy of acupuncture is likely underestimated in these reviews.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:38336368",
+          "quote": "The study investigated the efficacy of acupuncture in ischaemic stroke (IS) patients with hemiparesis, focusing on motor recovery and neuroplasticity. Acupuncture was shown to improve motor function, as evidenced by higher Fugl-Meyer Assessment scores in the hand-foot 12 needles acupuncture group compared to the non-acupoint group. Neuroimaging revealed that acupuncture promoted cerebro-cerebellar functional connectivity changes, including increased voxel-mirrored homotopic connectivity (VMHC) in specific brain regions. No acupuncture-related adverse events were reported, suggesting that acupuncture is effective and safe for motor recovery in IS patients.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:37143014",
+          "quote": "The study systematically reviewed and analyzed the efficacy of acupuncture (AC) for post-stroke depression (PSD). It found that AC, alone or combined with therapies like repetitive transcranial magnetic stimulation (RTMS) or Traditional Chinese Medicine (TCM), was more effective in alleviating depressive symptoms compared to Western medicine (pharmacotherapy) or usual care. AC combined with RTMS had the highest probability of improving depressive symptoms. The study also assessed secondary outcomes like neurological function and quality of life, and used robust methodologies such as Bayesian network meta-analysis and SUCRA for ranking treatment effectiveness. No specific complications of AC were mentioned in the excerpt.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART002848389",
+          "quote": "The study investigated the efficacy of abdominal acupuncture (BAA) combined with routine rehabilitation training (RT) for post-stroke shoulder-hand syndrome (SHS). Results showed that the combination of BAA and RT significantly improved shoulder pain, swelling, and activities of daily living (ADL) compared to RT alone. The observation group experienced greater reductions in VAS scores (pain), swelling volume, and improvements in MBI scores (ADL) than the control group. No BAA-related adverse events were reported during the study, suggesting that BAA is a safe and effective addition to RT for SHS patients.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART003146726",
+          "quote": "The systematic review and meta-analysis assessed the safety and effectiveness of acupuncture for acute ischemic stroke (AIS). It included 31 randomized controlled trials with 3604 patients. Results indicated that acupuncture combined with conventional treatments improved outcomes on the NIH Stroke Scale, Chinese Stroke Scale, and other measures like ADL and Fugl-Meyer Assessment Scale. However, the certainty of evidence was low, and the study concluded that while acupuncture may be effective and safe for AIS, higher-quality evidence is needed to confirm these findings.",
+          "source": "paperqa"
+        }
+      ]
+    },
+    "Acupuncture rehabilitation stroke": {
+      "answer": "Question: Acupuncture rehabilitation stroke\n\nAcupuncture has demonstrated potential as an effective rehabilitation method for stroke recovery, addressing various post-stroke complications. Studies indicate that acupuncture, when combined with conventional treatments, improves functional outcomes in acute ischemic stroke (AIS) patients, as evidenced by better scores on the National Institutes of Health Stroke Scale (NIHSS), Chinese Stroke Scale (CSS), and Fugl-Meyer Assessment Scale (FMA). However, the certainty of evidence remains low, necessitating further high-quality research (kci:ART003146726 chunk 1). \n\nMechanistically, acupuncture benefits ischemic stroke rehabilitation by promoting neurogenesis, regulating cerebral blood flow, preventing apoptosis, modulating neurochemicals, and enhancing long-term potentiation. Commonly used acupoints include Baihui (GV20), Zusanli (ST36), and Hegu (LI4) (pubmed:29143805 chunk 1). Neuroimaging studies further reveal that acupuncture facilitates neuroplasticity and motor recovery in ischemic stroke patients with hemiparesis by enhancing cerebro-cerebellar functional connectivity and voxel-mirrored homotopic connectivity (VMHC) (pubmed:38336368 chunk 1).\n\nAdditionally, acupuncture has shown efficacy in managing post-stroke complications such as shoulder-hand syndrome (SHS) and post-stroke depression (PSD). For SHS, abdominal acupuncture combined with routine rehabilitation training significantly reduces pain and swelling while improving activities of daily living (ADL) (kci:ART002848389 chunk 1). For PSD, acupuncture, particularly when combined with therapies like repetitive transcranial magnetic stimulation (RTMS), effectively alleviates depressive symptoms (pubmed:37143014 chunk 1).\n\nThese findings suggest acupuncture is a promising adjunctive therapy for stroke rehabilitation, addressing both physical and psychological recovery.\n\nReferences\n\n1. (kci:ART003146726 chunk 1): Shanshan Huang, Yuting Wang, Yifan Wu (2024). Acupuncture for acute ischemic stroke: A systematic review and meta-analysis of randomized controlled trials. Integrative Medicine Research\n\n2. (pubmed:29143805 chunk 1): Chavez Lina M, Huang Shiang-Suo, MacDonald Iona (2017). Mechanisms of Acupuncture Therapy in Ischemic Stroke Rehabilitation: A Literature Review of Basic Studies.. International journal of molecular sciences\n\n3. (pubmed:38336368 chunk 1): Chen Tianzhu, Chen Tianyan, Zhang Yong (2024). Bilateral effect of acupuncture on cerebrum and cerebellum in ischaemic stroke patients with hemiparesis: a randomised clinical and neuroimaging trial.. Stroke and vascular neurology\n\n4. (kci:ART002848389 chunk 1): Zhan Jie, Ai Yirang, Zhan Lechang (2022). Effect of abdominal acupuncture combined with routine rehabilitation training on shoulder-hand syndrome after stroke: A randomized controlled trial. Integrative Medicine Research\n\n5. (pubmed:37143014 chunk 1): Lam Ching Wai, Li Hui Juan, Guo Jianwen (2023). Acupuncture for post-stroke depression: a systematic review and network meta-analysis.. BMC psychiatry",
+      "evidence": [
+        {
+          "uid": "kci:ART003119178",
+          "quote": "The case report discusses the improvement of three stroke patients through integrative medicine combining traditional Korean medicine (scalp acupuncture) and Western medicine (rehabilitation exercises and electrical therapy). The study evaluated outcomes using the Manual Muscle Test (MMT), Modified Barthel Index (MBI), and patient interviews. Significant improvements in MMT and MBI were observed in acute stroke cases, while minimal improvement was noted in chronic cases. However, all patients reported high satisfaction with the treatment.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:38336368",
+          "quote": "The study investigates the effects of acupuncture on stroke rehabilitation, specifically in ischemic stroke (IS) patients with hemiparesis. It involved a randomized clinical and neuroimaging trial comparing hand-foot 12 needles acupuncture (HA) with non-acupoint acupuncture (NA). Results showed that acupuncture improved motor recovery, as evidenced by higher Fugl-Meyer Assessment (ΔFM) scores in the HA group compared to the NA group. Neuroimaging revealed that acupuncture promoted cerebro-cerebellar functional connectivity changes, including increased voxel-mirrored homotopic connectivity (VMHC) in specific brain regions. These findings suggest that acupuncture facilitates neuroplasticity and motor recovery in IS patients without adverse events.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:38942201",
+          "quote": "The study evaluates the effectiveness and safety of Governor vessel acupuncture (GV Ac) for post-stroke cognitive impairment (PSCI) through a meta-analysis of 39 randomized controlled trials involving 2044 patients. The analysis showed that GV Ac combined with conventional treatments significantly improved cognitive function and daily living activities in stroke survivors. Improvements were measured using the Curative ratio, Montreal Cognitive Assessment (MoCA), Mini-Mental State Examination (MMSE), and Activity of Daily Living (ADL) scores. The findings suggest that GV Ac is a beneficial rehabilitation method for enhancing cognitive function in stroke patients.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:37143014",
+          "quote": "The study systematically reviews and analyzes the effectiveness of acupuncture (AC) for post-stroke depression (PSD). It finds that AC, either alone or combined with therapies like repetitive transcranial magnetic stimulation (RTMS) or Traditional Chinese Medicine (TCM), is effective in alleviating depressive symptoms in stroke survivors. AC combined with RTMS showed the highest probability of improving depressive symptoms. The study also highlights that AC can significantly decrease scores on depression scales compared to usual care or pharmacotherapy alone. The findings suggest that AC is a promising rehabilitation method for improving depression symptoms in stroke patients.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART001981653",
+          "quote": "The study aimed to develop a Clinical Practice Guideline (CPG) for acupuncture treatment in patients with post-stroke spasticity. It found strong evidence supporting the effectiveness of electroacupuncture for post-stroke spasticity, though insufficient evidence for sole acupuncture. Moderate evidence suggested that electroacupuncture treatments (1-100 Hz frequency) should be performed over 3 times weekly on specific acupoints (e.g., LI11, LI10, TE5) for 20-30 minutes, starting in the acute stage after stabilization of vital signs. The safety of acupuncture for post-stroke spasticity was also moderately supported.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:29143805",
+          "quote": "Acupuncture is recommended by the WHO as a complementary strategy for stroke treatment, with clinical trials and meta-analyses showing its efficacy in improving balance, reducing spasticity, and enhancing muscle strength and well-being post-stroke. This review identifies five mechanisms by which acupuncture benefits ischemic stroke rehabilitation: promoting neurogenesis and cell proliferation in the CNS, regulating cerebral blood flow in the ischemic area, preventing apoptosis, modulating neurochemicals, and improving long-term potentiation and memory. Commonly used acupoints include Baihui (GV20), Zusanli (ST36), Quchi (LI11), Shuigou (GV26), Dazhui (GV14), and Hegu (LI4).",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:39069104",
+          "quote": "Acupuncture is recognized as an effective treatment for post-stroke neurological dysfunctions, which include impairments such as hemiparesis, spasticity, dysphagia, and cognitive issues. It is endorsed by the World Health Organization (WHO) for stroke treatment, particularly for ischemic stroke, due to its benefits in managing cerebrovascular diseases. Clinical studies have demonstrated its efficacy in improving neurological functions post-stroke. This review explores the mechanisms of action and presents new therapeutic strategies for managing post-stroke neurological dysfunctions through acupuncture.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART002848389",
+          "quote": "The study investigates the effect of abdominal acupuncture (BAA) combined with routine rehabilitation training (RT) on post-stroke shoulder-hand syndrome (SHS). Fifty patients were divided into two groups: one receiving only RT and the other receiving RT plus BAA. Results showed that the combination of BAA and RT significantly improved outcomes compared to RT alone, including greater reductions in pain (VAS score), swelling, and better improvements in activities of daily living (ADL). No adverse events related to BAA were reported. This suggests that BAA combined with RT is a more effective rehabilitation method for SHS after stroke.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "pubmed:33371155",
+          "quote": "The study investigates the effect of acupuncture on post-stroke cognitive impairment (PSCI), focusing on whether it can improve cognitive function in patients with PSCI without dementia (PSCIND) and reduce the risk of developing post-stroke dementia (PSD). A randomized controlled trial involving 360 patients across five hospitals will compare acupuncture, sham acupuncture, and a waiting-list group over a 3-month intervention period. Outcomes will be measured at multiple intervals, and functional MRI will be used to explore mechanisms. The study aims to provide evidence on acupuncture's potential as a rehabilitation method for stroke-related cognitive issues.",
+          "source": "paperqa"
+        },
+        {
+          "uid": "kci:ART003146726",
+          "quote": "The study systematically reviewed and analyzed 31 randomized controlled trials involving 3604 patients to assess the safety and effectiveness of acupuncture for acute ischemic stroke (AIS). Results showed that acupuncture combined with conventional treatments improved outcomes on the National Institutes of Health Stroke Scale (NIHSS), Chinese Stroke Scale (CSS), and other measures like ADL and Fugl-Meyer Assessment Scale (FMA). While the findings suggest acupuncture may be effective and safe for AIS rehabilitation, the certainty of evidence was low, and further high-quality research is needed to confirm these conclusions.",
+          "source": "paperqa"
+        }
+      ]
+    }
+  }
+}

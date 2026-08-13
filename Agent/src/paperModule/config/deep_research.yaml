@@ -1,0 +1,5 @@
+# spec section 15-17
+max_iterations: 3
+seed_k: 10
+min_evidence_papers: 5
+llm_model: gpt-4o-mini

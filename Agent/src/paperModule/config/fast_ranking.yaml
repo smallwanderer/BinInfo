@@ -1,0 +1,14 @@
+# spec section 12, 13
+rrf:
+  k: 60
+  source_weight:
+    kci: 1.0
+    oasis: 1.0
+
+rerank_weights:
+  relevance: 0.60
+  citation: 0.20
+  recency: 0.15
+  metadata_completeness: 0.05
+
+recency_half_life_years: 8
